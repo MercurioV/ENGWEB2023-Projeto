@@ -1,0 +1,6583 @@
+[{
+  "_id": "ffb39e09-555d-453c-ac97-6a0de247230a",
+  "numero": 1,
+  "enfiteuta": "Domingos Dias",
+  "foro": "620 reis e galinhas",
+  "rua": "r1",
+  "desc": [
+    {
+      "_id": "4bbdb2b6-24d4-4d1a-a988-2de2c3c47706",
+      "text": "Desde o ano de 1719 que os nº 1 e 2 se encontravam unidos. A frontaria que dá para a Rua Nova de Sousa corresponde ao nº15 da dita rua e é foreira à comenda de São Pedro de Merelim.",
+      "lugar": [
+        "Rua Nova de Sousa",
+        "São Pedro de Merelim"
+      ],
+      "data": [
+        "1719"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "5e65dc19-45ec-4a5b-bf1b-59dd63fa4eb4",
+  "numero": 2,
+  "enfiteuta": "Domingos Dias",
+  "foro": "270 reis e 2 galinhas",
+  "rua": "r1",
+  "desc": [
+    {
+      "_id": "8283aa4e-39cd-4fd7-87c6-463c750cfa80",
+      "text": "Desde o ano de 1719 que os nº 1 e 2 se encontravam unidos. A frontaria que dá para a Rua Nova de Sousa corresponde ao nº15 da dita rua e é foreira à comenda de São Pedro de Merelim.",
+      "lugar": [
+        "Rua Nova de Sousa",
+        "São Pedro de Merelim"
+      ],
+      "data": [
+        "1719"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "edb266fa-f81a-4b46-95af-6ec61feb734d",
+  "numero": 3,
+  "enfiteuta": "Os herdeiros do Padre Domingos Tinoco",
+  "foro": "150 reis e 2 galinhas",
+  "rua": "r1",
+  "desc": [
+    {
+      "_id": "ba3e1a6c-bb42-41b1-b663-81a05e841d78",
+      "text": "Confronta, de Sul, com parte da mesma casa foreira à Confraria da Trindade, antiga Confraria da Companhia de Jesus e, de Norte, com casa dízima a Deus",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Confraria da Trindade",
+        "Confraria da Companhia de Jesus"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "bcbec589-2b71-4868-85a5-b1d4eda74bfe",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "f417b058-8989-4483-a959-db4791942fbe",
+      "text": "É morada dos Sacristãos da Sé . Parte desta casa pertence à obra da Sé e a restante à <entidade tipo=\"instituição\">Irmandade da Misericórdia</entidade> . A parte da obra da Sé confronta, de nascente, com casas da dita Irmandade (antigas casas foreiras à Capela da senhora da Glória) e, de poente, com a casa nº2. O prazo era constituído por casa, com ênxido ao redor da capela da Senhora da Piedade de Jesus da Misericórdia.",
+      "lugar": [
+        "Sé",
+        "Capela da senhora da Glória",
+        "capela da Senhora da Piedade de Jesus da Misericórdia."
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9030e744-3564-460d-8942-7d19089232af",
+  "numero": 2,
+  "enfiteuta": "João Gomes da Cruz, ourives, e sua mulher, Angélica Maria de Araújo",
+  "foro": "120 reis e 1 galinha",
+  "rua": "r2",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "0428a825-3f71-4d24-ac3a-725d8404311c",
+  "numero": 3,
+  "enfiteuta": "Rosa Vitória, viúva de João da Silva",
+  "foro": "70 reis e 2 galinhas",
+  "rua": "r2",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "2d75e989-75df-49bf-b4e9-670c302e9b91",
+  "numero": 4,
+  "enfiteuta": "Manuel Pereira Tadim",
+  "foro": " 50 reis e 1 galinha",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "c7c415c5-2ad8-483d-abdf-b8a1855afeb9",
+      "text": "Confronta, de poente, com casa que se situa nos antigos açouges.",
+      "lugar": [
+        "antigos açouges"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "94f5efb1-c043-401a-806e-0a31e751ce9e",
+  "numero": 5,
+  "enfiteuta": "Teresa Tomásia, viúva de Agostinho Marques da Silva, ourives.",
+  "foro": "200 reais e 2 galinhas",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "e8378d90-2033-419c-ba40-9d085bee350d",
+      "text": "A casa nº6 foi construída depois do ano de 1543 . Desde o ano de 1644 que as casas nº7 e 8 da Rua dos Açougues Velhos, por baixo do nº6.Foi construída em 1543, em pertenças do prazo da casa nº5. No ano de 1641 foram-lhe unidas as traseiras do nº5 da Rua dos Açougues Velhos.",
+      "lugar": [
+        "Rua dos Açougues Velhos",
+        "Rua dos Açougues Velhos"
+      ],
+      "data": [
+        "1543",
+        "1644",
+        "1641"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b661c199-cf7e-415a-9a49-02ae5336a54b",
+  "numero": 6,
+  "enfiteuta": "Teresa Tomásia, viúva de Agostinho Marques da Silva, ourives.",
+  "foro": "50 reis e 1 galinha",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "2ab7106d-c434-4258-98ae-c349eb9138be",
+      "text": "A casa nº6 foi construída depois do ano de 1543. Desde o ano de 1644 que as casas nº7 e 8 da Rua dos Açougues Velhos, por baixo do nº6.Foi construída em 1543, em pertenças do prazo da casa nº5. No ano de 1641 foram-le unidas as traseiras do nº5 da Rua dos Açougues Velhos.",
+      "lugar": [
+        "Rua dos Açougues Velhos"
+      ],
+      "data": [
+        "1543",
+        "1644",
+        "1641"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "a3b87bdb-3bdd-411d-a5ac-39c09f7473de",
+  "numero": 7,
+  "enfiteuta": "António Fernandes Veloso, ourives de prata, e sua mulher, Assunção Vieira",
+  "foro": "60 reis e 1 galinha",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "e5d00500-a168-42c8-8747-115e1e61ff20",
+      "text": "Confronta, de poente, com casa for. ao morgado de Real.Possui uma porta de serventia para a Rua dos Açougues Velhos, por baixo do nº6.Foi construída em 1543, em pertenças do prazo da casa nº5.No ano de 1641 foram-lhe unidas as traseiras do nº5 da Rua dos Açougues Velhos.",
+      "lugar": [
+        "Real",
+        "Rua dos Açougues Velhos"
+      ],
+      "data": [
+        "1543",
+        "1641"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "cb157ef4-25f9-4e3c-8691-e7280d807c2e",
+  "numero": 8,
+  "enfiteuta": "Vid. casa nº32, Rua de Maximinos(rua nº22).",
+  "foro": "",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "00b30a50-9f8b-4e8b-8aed-041aa13ea6c5",
+      "text": "Foi construída, depoisde 1707, no lugar de uma cozinha pertencente ao nº10, ao qual paga, de pensão ou foro, 60 reis. Confronta, do nascente, com o nº8 e , de poente, com parte da casa nº10. É subenfiteuta Bento de Sá, casado com Francisca da Silva",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1707"
+      ],
+      "entidade": [
+        "Bento de Sá",
+        " Francisca da Silva"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ab9e9ff2-f3f0-4c28-b2da-695330d3532b",
+  "numero": 9,
+  "enfiteuta": "Vid. casa nº10.",
+  "foro": "",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "a4c3f8dd-b696-4a24-b735-ccd6a355b4a4",
+      "text": "Foi construída depois de 1725, no lugar de uma cozinha pertencente ao nº10, ao qual paga, de pensão ou foro, 60 reis.Confronta, do nascente, com o nº8 e, de poente, com parte da casa nº10. É subenfiteuta Bento da Sá, casado com Francisca da Silva",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1725"
+      ],
+      "entidade": [
+        "Bento de Sá",
+        " Francisca da Silva"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "eeb477ea-adb9-448d-ae29-91a5ca06cea9",
+  "numero": 10,
+  "enfiteuta": "Luísa da Rocha",
+  "foro": "260 reis e ...galinhas",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "88be5b8a-9902-4efb-b07b-09eaf642b022",
+      "text": "Parte desta casa é foreira à Mitra",
+      "lugar": [
+        "Mitra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "ebbdbe8c-353b-4cda-b5e8-9022397d0ed9",
+      "text": "Parte desta casa é foreira à Mitra",
+      "lugar": [
+        "Mitra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "469d5a6b-a5ce-4de3-814a-a8c33fd5b7f7",
+  "numero": 11,
+  "enfiteuta": "Lic.Custódio de Azevedo Proença",
+  "foro": "340 reis e galinhas",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "c3652385-168e-4ee4-bb6b-c6f05bc63e16",
+      "text": "Encontram-se unidas desde o ano de 1692",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1692"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "83b42d31-4e87-4ab1-92b4-55d0afda6c2e",
+  "numero": 12,
+  "enfiteuta": "Lic.Custódio de Azevedo Proença",
+  "foro": "420 reis e 2 galinhas",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "e250cce9-7c79-40de-a3ce-73b7396f37a0",
+      "text": "Encontram-se unidas desde o ano de 1692",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1692"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "109a2193-237e-4c0d-95f9-c1219be23972",
+  "numero": 13,
+  "enfiteuta": "Lic. Henrique Ferreira Carmo",
+  "foro": "300 reis e 2 galinhas",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "d39489f4-e261-4a50-903b-60e0ab15c981",
+      "text": "Confronta, de poente, com a Rua dos Sapateiros.",
+      "lugar": [
+        "Rua dos Sapateiros"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "66a736fe-98fb-4345-ad17-3ef96e87c075",
+  "numero": 14,
+  "enfiteuta": "Vid. casa nº1 da Rua do Campo(rua nº1)",
+  "foro": "",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "cd7e45e8-2038-4492-92ce-554c484d3b5e",
+      "text": "Foi construída, depois do ano de, 1719, numa parte da casa nº15 e no lugar de uma cozinha do nº1 da Ruaa do Campo, às quais pagam de pensão ou foro, respetivamente 200 reis e 1 galinha, e 11o reis, São subenfiteutas André Carvalho, tratante ¡, e sua mulhar Luisa da Costa",
+      "lugar": [
+        "Rua do Campo"
+      ],
+      "data": [
+        "1719"
+      ],
+      "entidade": [
+        "André Carvalho",
+        " Luisa da Costa"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "df280b9c-7f2f-46d4-aeb9-49262248bce2",
+  "numero": 15,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r2",
+  "desc": [
+    {
+      "_id": "140439e2-2784-4afd-a5fa-bd1c8e4c1000",
+      "text": "Corresponde ao nº1 da Rua do campo, para onde se tem a fronteira e serventia principais.A frontaria que dá para a Rua Nova de Sousa é foreira, à comenda de S. Pedro de Merelim. ",
+      "lugar": [
+        "S. Pedro de Merelim",
+        "Rua Nova de Sousa",
+        "Rua do Campo"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "50bd218b-d41d-457b-86be-79eabb1f9587",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r3",
+  "desc": [
+    {
+      "_id": "747f1e4d-32a3-4f35-8104-8b2de2b30773",
+      "text": "Corresponde à casa nº16 da Praça do Pão para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Praça do Pão"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "1c7e7811-71a4-4e2d-b7e5-12552284282e",
+  "numero": 2,
+  "enfiteuta": "Padre Francisco Xavier de Campos",
+  "foro": "610 reis e 1 capão",
+  "rua": "r3",
+  "desc": [
+    {
+      "_id": "c1c5a13a-d028-4193-badd-01114974aa87",
+      "text": "Estas casas(2,3,4) foram construídas depois de 1550, em pertenças do nº16, da Praça do Pão e, desde o ano de 1725, constituem um só prazo. ",
+      "lugar": [
+        "Praça do Pão"
+      ],
+      "data": [
+        "1550",
+        "1725"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b6c55c31-dcee-4770-b95f-29b081ec2062",
+  "numero": 5,
+  "enfiteuta": "Teresa Tomásia, viúva de Agostinho Marques da Silva, ourives",
+  "foro": "105 reis e 1 galinha",
+  "rua": "r3",
+  "desc": [
+    {
+      "_id": "a2e73a5e-4c57-4b3c-b8c3-abb1c258e92e",
+      "text": "A última porta do nº6, para o lado do norte, é serventia do nº7 da rua Nova. Encontram-se unidas desde o ano de 1641",
+      "lugar": [
+        "rua Nova"
+      ],
+      "data": [
+        "1641"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "a1453a1f-eade-405f-ad1d-be1a344a9eeb",
+  "numero": 6,
+  "enfiteuta": "Teresa Tomásia, viúva de Agostinho Marques da Silva, ourives",
+  "foro": "120 reis e 1 galinha",
+  "rua": "r3",
+  "desc": [
+    {
+      "_id": "a4d1ef87-237d-4d28-831f-06aabfe85f39",
+      "text": "A última porta do nº6, para o lado do norte, é serventia do nº7 da rua Nova. Encontram-se unidas desde o ano de 1641",
+      "lugar": [
+        "rua Nova"
+      ],
+      "data": [
+        "1641"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "c8ae32a8-821a-4c41-908d-2291d30685da",
+  "numero": 7,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r3",
+  "desc": [
+    {
+      "_id": "ae21cbad-5387-41c8-9b88-83d490dea6bc",
+      "text": "Casas 7 e 8, Desde do ano1644 que correspondem ao nº5 da Rua Nova de Sousa para onde têm a frontaria e serventia principais.",
+      "lugar": [
+        "Rua Nova de Sousa"
+      ],
+      "data": [
+        "1644"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9d296ae2-a239-4dd4-861b-fbcac813e056",
+  "numero": 9,
+  "enfiteuta": "Pedro Pereira",
+  "foro": "40 reis e 1 galinha",
+  "rua": "r3",
+  "desc": [
+    {
+      "_id": "812d67d1-ffd0-4722-b09b-533ecb702b57",
+      "text": "Foi demolida para alargamento das casas do Cabido, depois do ano de 1793.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1793"
+      ],
+      "entidade": [
+        "Cabido"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9ae33534-e552-49d2-a25b-8034a736453c",
+  "numero": 1,
+  "enfiteuta": "Maria Barbosa, viúva de Manuel Fernandes, alfaiate do Campo de S. Sebastião",
+  "foro": "370 reis e 2 galinhas",
+  "rua": "r4",
+  "desc": [
+    {
+      "_id": "53be8bfd-7698-42ca-9aa5-618eb3804076",
+      "text": "Confronta, de nascente, com a Rua do Poço.",
+      "lugar": [
+        "Rua do Poço"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "17ca6a14-25c1-48d4-b13d-8a9a7a4d12f7",
+  "numero": 2,
+  "enfiteuta": "José Gomes Ferraz",
+  "foro": "480 reis e 2 galinhas",
+  "rua": "r4",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "f122a608-5a12-4486-a1ff-fa3c831c395d",
+  "numero": 3,
+  "enfiteuta": "Félix Francisco",
+  "foro": "480 reis e 2 galinhas",
+  "rua": "r4",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "c4653de1-5557-47de-af21-ca07f145cec4",
+  "numero": 4,
+  "enfiteuta": "D. Paula Francisca de Melo, viúva de Francisco da Rocha Tinoco",
+  "foro": "620 reis e 2 galinhas",
+  "rua": "r4",
+  "desc": [
+    {
+      "_id": "6eb1eee0-3712-4f03-a775-46f36fa19df9",
+      "text": "As casas nº 5 e 6, passaram a constituir um único prazo, em 1702. Em 1789, o nº 4 foi também integrado no mesmo prazo.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1702",
+        "1789"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b7862903-cb5a-4251-93a0-2462f4636cd8",
+  "numero": 5,
+  "enfiteuta": "D. Paula Francisca de Melo, viúva de Francisco da Rocha Tinoco",
+  "foro": "825 reis e 2 galinhas",
+  "rua": "r4",
+  "desc": [
+    {
+      "_id": "15326631-5ace-4908-b99a-c76e0c1172b7",
+      "text": "As casas nº 5 e 6, passaram a constituir um único prazo, em 1702 Em 1789, o nº 4 foi também integrado no mesmo prazo.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1702",
+        "1789"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "d0583d2e-1442-478c-9e1f-bf312e8c915b",
+  "numero": 7,
+  "enfiteuta": "Padre Ambrósio Lourenço",
+  "foro": "520 reis e 2 galinhas",
+  "rua": "r4",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "22a0b928-deed-48c5-9e6a-b82cc5bbefe1",
+  "numero": 8,
+  "enfiteuta": "Dr. José de Araújo",
+  "foro": "730 reis e 2 galinhas",
+  "rua": "r4",
+  "desc": [
+    {
+      "_id": "1860276f-e6e2-4912-a720-bd1fd8f41737",
+      "text": "O enfiteuta sucedeu a seu pai, Francisco de Araújo, o qual era filho de José de Araújo , barbeiro, e de sua mulher Ana Maria",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Francisco de Araújo",
+        "José de Araújo",
+        "Ana Maria"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b2d1eade-2079-484b-af6e-20130e0233c3",
+  "numero": 9,
+  "enfiteuta": "Dr. José de Araújo",
+  "foro": "520 reis e 2 galinhas",
+  "rua": "r4",
+  "desc": [
+    {
+      "_id": "ce7432fe-ab09-4e14-b512-17428c4fae44",
+      "text": "O enfiteuta sucedeu a seu pai,Francisco de Araújo, o qual era filho de José de Araújo, barbeiro, e de sua mulher Ana Maria",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Francisco de Araújo",
+        "José de Araújo",
+        "Ana Maria"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "4f2ac411-4c78-4c14-b3a8-c38e12a2a8dc",
+  "numero": 10,
+  "enfiteuta": "Manuel da Costa Vasconcelos",
+  "foro": "570 reis e 2 capões",
+  "rua": "r4",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "1bd6f499-4067-430a-991f-0dcce77b2a2c",
+  "numero": 11,
+  "enfiteuta": "D. Teresa Maria Ferreira Santarém",
+  "foro": "150 reis",
+  "rua": "r4",
+  "desc": [
+    {
+      "_id": "de2c2edb-aac3-462f-b086-757b0e79d33e",
+      "text": "Esta casa possui frontaria para a Rua de D. Gualdim. Igual pensão é paga ao Hospital de S. Marcos.",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Hospital de S. Marcos"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "54419bd3-2c6f-46ed-8ac6-2caae2e8b151",
+  "numero": 12,
+  "enfiteuta": "João Francisco, tratante",
+  "foro": "550 reis e 2 galinhas",
+  "rua": "r4",
+  "desc": [
+    {
+      "_id": "92483b46-8f7f-4495-b666-ea135c395b15",
+      "text": "A parte do poente é foreira ao Hospital de S. Marcos.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Hospital de S. Marcos"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "aab0f386-43fb-4d2f-a397-71c10cfa2584",
+  "numero": 13,
+  "enfiteuta": "Dr. António da Costa",
+  "foro": "1800 reis, 2 capões e 2 galinhas",
+  "rua": "r4",
+  "desc": [
+    {
+      "_id": "630424b3-1fa1-4b57-aa2e-cc0cb10a3682",
+      "text": "(13 e 14) Encontram-se unidas num único prazo desde o ano de 1660.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1660"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0033858d-eb50-4d2d-b158-0cc572dfe9a4",
+  "numero": 15,
+  "enfiteuta": "Rev. Francisco da Costa, Abade de Tadim",
+  "foro": "1010 reis e 4 galinhas",
+  "rua": "r4",
+  "desc": [
+    {
+      "_id": "724d9620-03c0-4a45-ba9f-7ff1226c40ee",
+      "text": "No ano de 1660 foi incorporado neste prazo uma torre pertencente ao nº 16, e, no ano de 1724, um quintal do nº 2 da Rua dos Açougues Velhos.",
+      "lugar": [
+        "Rua dos Açougues Velhos"
+      ],
+      "data": [
+        "1660",
+        "1724"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "987a2cfb-f821-4805-af2d-c1aac7a5b09f",
+  "numero": 16,
+  "enfiteuta": "José Luís. alfaiate",
+  "foro": "260 reis e 1 capão",
+  "rua": "r4",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "45add216-5c58-4f8e-9bf1-048b69cac209",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "38 reis e 6 pretos (de censo)",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "e506c71d-dda7-4455-869c-713dcb7e0fb4",
+      "text": "A casa é foreira aos Padres coreiros. O censo é pago por Domingos José de Melo.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Domingos José de Melo"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "1638404f-b006-422e-880d-f13c0d559aa9",
+  "numero": 2,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "8c363891-059b-41ab-b2c0-0a08692cbd06",
+      "text": "Corresponde ao nº1 da Rua de S.João, para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "23ac453c-98e5-422a-bc91-89910d17eede",
+  "numero": 3,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "fe997b0e-eb73-4d6e-961b-9d6bb85900d2",
+      "text": "orresponde ao nº 11 da Rua de S. João, para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "73ca8f59-ff06-4985-a3cc-180277fc10b3",
+  "numero": 5,
+  "enfiteuta": "Custódio Rodrigues, boticário",
+  "foro": "440 reis e 2 galinhas",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "291da628-33fe-4d34-9696-568425a949bb",
+      "text": "Confronta, do nascente, com casa de herdade dízima a Deus. Foi unida, em 1621, à casa nº 6.",
+      "lugar": [
+        "casa de herdade dízima a Deus"
+      ],
+      "data": [
+        "1621"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "54558260-f63a-438d-b378-db2fa5ae1c64",
+  "numero": 6,
+  "enfiteuta": "Custódio Rodrigues, boticário",
+  "foro": "345 reis e 2 galinhas",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "5f805829-e55c-47fe-92dd-e973f7d2d3a4",
+      "text": "Confronta, do nascente, com casa de herdade dízima a Deus. Foi unida, em 1621, à casa nº 6.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1621"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "6ca5e315-f1ee-4956-8372-2f8e5cab97ca",
+  "numero": 7,
+  "enfiteuta": "",
+  "foro": "160 reis (de censo)",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "4823870c-8021-4e15-95d3-5d86a0456d44",
+      "text": "Confronta, do poente, com o Terreiro das Oussias. António Xavier Rebelo, tercenário, paga de censo 160 reis.",
+      "lugar": [
+        "Terreiro das Oussias"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "António Xavier Rebelo"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "66bb5f5e-3140-494f-9a1c-8f17c19f83d4",
+  "numero": 8,
+  "enfiteuta": "Dr. Manuel José Brandão",
+  "foro": "700 reis e 2 galinhas",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "64126428-6fc6-432f-85c8-0eb8d1acadc8",
+      "text": "O enfiteuta possuia esta casa por sucessão de Frutuoso Brandão Pereira e de Maria Josefa da Costa, sua mulher. Confronta, do sul, com o nº 2 da Rua Pequena.",
+      "lugar": [
+        "Rua Pequena"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Frutuoso Brandão Pereira",
+        "Maria Josefa da Costa"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "f1d09d45-9d0e-4780-a353-379584133f62",
+  "numero": 9,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "e5c5ffae-74d9-4048-bff4-32aad320a691",
+      "text": "Confronta, do norte, com o Terreiro das Oussias; do sul, com o nº 8, da Rua Pequena; do nascente, com a mesma Rua Pequena e, do poente, com quintal de uma casa da Rua de Sta. Maria ou do Poço.",
+      "lugar": [
+        "Terreiro das Oussias",
+        "Rua Pequena",
+        "Rua de Sta. Maria ou do Poço"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "65ca1b39-a57c-4bbd-a089-fd27b3181e7e",
+      "text": "Foi demolida, depois do ano de 1750, \"para a obra da sacristia da Sé, por conta da fábrica da mesma Sé\".",
+      "lugar": [
+        "sacristia da Sé"
+      ],
+      "data": [
+        "1750"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "17c4a8cf-92f7-47e8-89a3-f63acccd272c",
+  "numero": 10,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "09ed6c70-97ab-4973-a5c6-999896d4f92a",
+      "text": "Não aparecem desenhadas no Mapa por terem sido demolidas \"para a obra da sacristia da Sé\"</lugar> . A casa nº 10 situava-se no canto desta rua (parte nascente) e confrontava do norte, defronte da Sé, com a Rua das Oussias e, do nascente com o caminho que se dirigia das Oussias para a Rua Pequena. A casa nº 11 confronta, do nascente, com a nº 10.",
+      "lugar": [
+        "sacristia da Sé",
+        "Rua das Oussias",
+        "Rua Pequena"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "bbd37495-3a39-41c8-88fc-82251ec013d8",
+  "numero": 11,
+  "enfiteuta": "Custódia Pereira, mulher de João Fernandes Gentil",
+  "foro": "550 reis, 2 galinhas e 2 capões",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "d9205e6a-273d-4a5c-85f5-12724fe036cc",
+      "text": "Foi comprada pela Fábrica da Sé que a mandou demolir depois de 1750, para a \"obra da sacristia\".",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1750"
+      ],
+      "entidade": [
+        "Fábrica da Sé"
+      ]
+    },
+    {
+      "_id": "7f0dd1e8-f8e9-4888-a8d6-df43b8b72e29",
+      "text": "Confronta, do nascente, com o Terreiro das Oussias e, do norte com o mesmo Terreiro e com o nº 13.",
+      "lugar": [
+        "Terreiro das Oussias"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "cbc6b07a-eac0-4836-9a76-4cf25b9d5ce0",
+  "numero": 13,
+  "enfiteuta": "Francisca Teresa",
+  "foro": "400 reis e 2 galinhas",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "75df4bff-1496-4a50-a7c2-ecaf3bde670e",
+      "text": "A enfiteuta sucedeu a seu irmão, o Reitor de Freitas, José Ferreira Petiz, sendo ambos filhos de Francisco Gonçalves Petiz, pasteleiro.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "José Ferreira Petiz",
+        "Francisco Gonçalves Petiz"
+      ]
+    },
+    {
+      "_id": "3f6efb65-983c-4e57-8ea8-04c766335483",
+      "text": "Confronta, do nascente, com o nº 14; do norte e poente com a rua e, do sul com a nº 12.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "c6746193-b750-4d68-a7ca-039e8682e84a",
+  "numero": 14,
+  "enfiteuta": "Francisca Teresa",
+  "foro": "400 reis e 2 galinhas",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "d8c2be7d-fda8-49d9-9836-11fff7dc7985",
+      "text": "Foi construída em 1547, em pertenças da casa nº 13.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1547"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0133f0e6-9dae-4265-8069-70d6b3098f1e",
+  "numero": 15,
+  "enfiteuta": "António Antunes, pasteleiro, e sua mulher, Joana Francisca",
+  "foro": "330 reis e 2 galinhas",
+  "rua": "r5",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "b6e716c7-b417-4ca4-b487-c7af0868154d",
+  "numero": 16,
+  "enfiteuta": "David Lopes",
+  "foro": "820 reis e 2 galinhas",
+  "rua": "r5",
+  "desc": [
+    {
+      "_id": "f662d295-1c4a-4853-95da-c14920d7d219",
+      "text": "A casa nº16 foi unida ao nº17, no ano de 1667. O nº17 confronta com a Rua do Poço.",
+      "lugar": [
+        "Rua do Poço"
+      ],
+      "data": [
+        "1667"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "5ae47c92-7bf7-4bd5-84f1-75cbf5e6fe24",
+  "numero": 1,
+  "enfiteuta": "Manuel Ribeiro Pereira",
+  "foro": "350 reis",
+  "rua": "r7",
+  "desc": [
+    {
+      "_id": "7d0bd895-c1ba-4ee4-b203-6b453fc415e6",
+      "text": "A casa nº 1 confronta, do sul, com casa foreira à confraria de S. João do Souto.",
+      "lugar": [
+        "confraria de S. João do Souto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "318886b9-dd4f-47c2-ac7d-6e249c478693",
+  "numero": 2,
+  "enfiteuta": "Manuel Ribeiro Pereira",
+  "foro": "100 reis e 1 galinha",
+  "rua": "r7",
+  "desc": [
+    {
+      "_id": "beb65d92-3e6f-4314-bf82-082c03a3553c",
+      "text": "A casa nº 1 confronta, do sul, com casa foreira à confraria de S. João do Souto.",
+      "lugar": [
+        "confraria de S. João do Souto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "1dc6a8d0-623f-4b76-b688-b7ce8e75b110",
+  "numero": 3,
+  "enfiteuta": "Dr.António Fernandes do Vale, médico",
+  "foro": "100 reis e 4 galinhas",
+  "rua": "r7",
+  "desc": [
+    {
+      "_id": "555e69af-12e8-4180-9111-aec1cc83639c",
+      "text": "Antes de 1480 funcionou aqui o \" Forno da Vila\"",
+      "lugar": [
+        "Forno da Vila"
+      ],
+      "data": [
+        "1480"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "bca07073-6522-42e0-a9e8-66d5deb7e84d",
+  "numero": 1,
+  "enfiteuta": "Miguel da Silva Cação, pasteleiro",
+  "foro": "240 reis e 2 galinhas",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "ec17f90a-371d-4309-b175-8a31591776a4",
+      "text": "Os prazos nº 2 e 3 encontram-se unidos desde 1669",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1669"
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "4e84c42e-53bd-45a1-aa35-3f97aaa9d04f",
+      "text": "O nº 1 confronta, do poente, com o quintal da casa nº 5 da Rua de S. João, à qual esteve unida entre os anos de 1678 e 1720",
+      "lugar": [
+        "Rua de S. João"
+      ],
+      "data": [
+        "1678",
+        "1720"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "fdfb8a0c-9bb2-4faf-846f-2913b2d8d2b7",
+  "numero": 2,
+  "enfiteuta": "Miguel da Silva Cação, pasteleiro",
+  "foro": "280 reis e 3 galinha",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "8b79de35-b1be-4562-bcff-87c0afcd1ee9",
+      "text": "Os prazos nº 2 e 3 encontram-se unidos desde 1669.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1669"
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "909c757c-5bbe-41a0-ba18-bc5767775c89",
+      "text": "O nº 1 confronta, do poente, com o quintal da casa nº 5 da Rua de S. João, à qual esteve unida entre os anos de 1678 e 1720",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        "1678",
+        "1720"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "7ca88944-d0ca-4ace-b692-1892d1dc61fa",
+  "numero": 4,
+  "enfiteuta": "Miguel da Silva Cação, pasteleiro",
+  "foro": "1800 reis e 2 galinhas",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "9db78140-8bf2-4fac-b60b-493ce6badfdc",
+      "text": "Os prazos nº 2 e 3 encontram-se unidos desde 1669",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1669"
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "7bfaf1af-a762-481a-bd1b-d4b81d7b679a",
+      "text": "O nº 1 confronta, do poente, com o quintal da casa nº 5 da Rua de S. João, à qual esteve unida entre os anos de 1678 e 1720",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        "1678",
+        "1720"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "4ba36ca5-b974-4a93-828c-10485ec67a09",
+  "numero": 5,
+  "enfiteuta": " D. Escolástica, viúva",
+  "foro": "200 reis e 2 galinhas",
+  "rua": "r8",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "e7a9d2c4-00ad-43ef-814c-861fcc8a2cc8",
+  "numero": 6,
+  "enfiteuta": "Constantino Marques",
+  "foro": "130 reis e 2 galinhas",
+  "rua": "r8",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "d093c5ee-f6da-4e88-82e9-bbe881ac300e",
+  "numero": 7,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "0ea70509-a548-4a9a-8d36-f38ed28e87e7",
+      "text": "A frontaria e serventia principais correspondem ao nº 29 da Rua do Souto. No poente tem uma porta de serventia que dá para o referido nº 29. Confronta, do nascente,com casa dos padres coreiros.",
+      "lugar": [
+        "Rua do Souto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "padres coreiros"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "da8bb845-9648-4f09-8829-b2f1e245aa70",
+  "numero": 8,
+  "enfiteuta": "António de Lima de Abreu",
+  "foro": "100 reis e 1 galinha",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "30654960-40e2-46c4-82d3-ccb3bd640089",
+      "text": "Foi construída, no ano de 1565. em pertenças do nº 26 da Rua do Souto. Na parte do nascente, em baixo, possui uma porta de serventia para o nº 25 da Rua do Souto. Confronta, do poente, com casas foreiras à cororaria e, do nascente, com a serventia do nº 25, da Rua do Souto.",
+      "lugar": [
+        "Rua do Souto",
+        "cororaria"
+      ],
+      "data": [
+        "1565"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "8b1f9119-02a1-4427-8b16-f0740ca0ca21",
+  "numero": 9,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "37b4c9a8-f0d2-459b-bf8f-9cad4379e3b2",
+      "text": "Corresponde a uma porta e corredor de serventia do nº 25 da Rua do Souto. Situa-se por baixo da casa nº 8.",
+      "lugar": [
+        "Rua do Souto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "e15574c4-c887-42ad-8549-f7d322d3ab46",
+  "numero": 10,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "6cf2fcff-b28b-4d1a-a452-185f708e46d6",
+      "text": "Pertence à casa nº 23, da Rua do Souto. para onde tem a serventia principal.",
+      "lugar": [
+        "Rua do Souto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "01c2c9f2-0466-4420-8a53-17e4931f5c3a",
+  "numero": 11,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "3f5795b5-b84a-4570-aa15-b66057258698",
+      "text": "Pertence à casa nº 21, da Rua do Souto, para onde tem a serventia principal.",
+      "lugar": [
+        "Rua do Souto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "45571b51-50bf-4044-80a1-43d79c26a6d5",
+  "numero": 12,
+  "enfiteuta": "A viúva de Frutuoso Marques",
+  "foro": "200 reis e 1 galinha",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "a17c91fd-6847-486f-a0ed-2e807d11993c",
+      "text": "No ano de 1583 foi separada do prazo da casa nº 13 e unida ao nº 19, da Rua do Souto. A partir do ano de 1610 constitui, novamente, um único prazo.",
+      "lugar": [
+        "Rua do Souto"
+      ],
+      "data": [
+        "1583",
+        "1610"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "21ef890e-1d91-4437-af24-8c4622b2d438",
+  "numero": 13,
+  "enfiteuta": "Jerónima da Costa, viúva de Gaspar Francisco",
+  "foro": "190 reis e 1 galinha",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "189ba7dd-6cce-4335-b46a-355df8dde563",
+      "text": "Situa-se na esquina para a Rua do Souto",
+      "lugar": [
+        "Rua do Souto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "eb31302c-2135-45bd-9da4-cc20879c34b0",
+  "numero": 14,
+  "enfiteuta": "Madalena Vaz, viuva",
+  "foro": "180 reis e 2 galinhas",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "3f1ba898-ebac-44ec-a9bb-f9e278d51200",
+      "text": "Confronta, do sul, com o nº 13 e, do norte, com casa foreira à Mitra.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "8a3287c9-0bef-42f0-9900-fa9f16b8795b",
+  "numero": 15,
+  "enfiteuta": "Padre José Marques",
+  "foro": "225 reis e 2 galinhas",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "0e9c3805-1c58-446e-b9d1-5dc3b89474b7",
+      "text": "Confronta, do nascente, com casa da cororaria e, do poente, com casa foreira a S. João do Souto.",
+      "lugar": [
+        "casa da cororaria"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "S. João do Souto"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3ba6267c-3561-4087-b48e-d2527fa69dfb",
+  "numero": 16,
+  "enfiteuta": "Ana Maria Josefa Clara",
+  "foro": "190 reis e 2 galinhas",
+  "rua": "r8",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "a1a45499-cff3-412a-9d59-0736a10f09a9",
+  "numero": 17,
+  "enfiteuta": "A viúva do Capitão Domingues Gomes Lages",
+  "foro": "210 reis 2 capões",
+  "rua": "r8",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "98a179d6-6b67-4602-a2a9-c2a8e112f360",
+  "numero": 18,
+  "enfiteuta": "A viúva do Capitão Domingues Gomes Lages",
+  "foro": "210 reis 2 capões",
+  "rua": "r8",
+  "desc": [
+    {
+      "_id": "d513b711-c627-4651-aa06-76bedaee6c18",
+      "text": "O nº 20 confronta, do poente, com casa de vínculo. O nº 21 situa-se por detrás da Igreja de S. João do Souto e, por sentença que alcançou Teotónio Soares de Brito contra o cabido, ficou-lhe a pertencer o nº 19.",
+      "lugar": [
+        "Igreja de S. João do Souto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Teotónio Soares de Brito"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "e23baea8-71f7-4b0e-9e12-ada14f5dbb41",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "67a0ca42-9c49-4366-ac7b-a2d0221a7da0",
+      "text": "Corresponde ao n.º 7 da Rua de S. João, para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "054bbba9-b1a9-453d-a81c-5f0b711b693d",
+  "numero": 2,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "5fe1df6d-d9b1-422e-9fb8-ba40691e0c14",
+      "text": "No ano de 1607, por escambo realizado entre o Cabido e a Companhia de Jesus , esta casa foi trocada com o casal de Real, situado na freguesia de S. Jerónimo de Real. Confronta com quintal dos padres da Companhia de Jesus.",
+      "lugar": [
+        "casal de Realfreguesia de S. Jerónimo de Real"
+      ],
+      "data": [
+        "1607"
+      ],
+      "entidade": [
+        "Companhia de Jesus",
+        "Cabido"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "79fa3ee0-2857-45e5-bc77-ebdb59ba79eb",
+  "numero": 3,
+  "enfiteuta": "Teresa de Araújo, mulher de Manuel de Sousa, vidraceiro",
+  "foro": "240 reis e 1 capão",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "0cfefb53-4d96-42ff-a5e0-bb92d6820880",
+      "text": "Emprazamento feito em 1724. Confronta, do nascente, com casa for. ao chantrado.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1724"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "af98f1b3-f5d7-4c5b-b358-a41619d77fbc",
+  "numero": 4,
+  "enfiteuta": "Manuel da Faria",
+  "foro": "400 reis e 1 capão",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "2e641071-3167-4049-ae9a-85a2ea0ffc65",
+      "text": "Foi construída em pertenças da casa n.º 3, depois do ano de 1534.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1534"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "00cc4569-e454-4951-9d01-4e82884bbdd6",
+  "numero": 5,
+  "enfiteuta": "Carlos de Magalhães de Azevedo, Cónego",
+  "foro": "475 reis e 2 capões",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "6804a3cc-01a0-4a46-95d4-5ffb9d557419",
+      "text": "A casa n.º 6 confronta, de nascente, com casa for. à cororaria. Pertence, também, ao enfiteuta destas duas casas o n.º 12 da rua do Forno.",
+      "lugar": [
+        "rua do Forno"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3952d8df-e329-43df-b065-9044a6a6c6f0",
+  "numero": 6,
+  "enfiteuta": "Carlos de Magalhães de Azevedo, Cónego",
+  "foro": "250 reis e galinhas",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "d8d5f46a-d79b-46a7-a560-4ede7c84844f",
+      "text": "A casa n.º 6 confronta, de nascente, com casa for. à cororaria. Pertence, também, ao enfiteuta destas duas casas o n.º 12 da rua do Forno.",
+      "lugar": [
+        "rua do Forno"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "fc31ab50-3293-48c0-9d32-bbe3c36b860a",
+  "numero": 7,
+  "enfiteuta": "Félix José Machado",
+  "foro": "420 e 4 galinhas",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "1773ca60-c110-4e7c-8043-97d22c5ea961",
+      "text": "Encontram-se unidos a este prazo os n.º 10 e 11 da Rua do Forno, desde o ano de 1596",
+      "lugar": [
+        "rua do Forno"
+      ],
+      "data": [
+        "1596"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "709a9d49-676f-4071-8d5c-1a205e273a11",
+  "numero": 8,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "e3be7268-8eba-4064-8881-6799b9cceeef",
+      "text": "Pertencem ao n.º 9 da Rua do Forno, para onde têm a frontaria e serventia principais. A casa n.º 9 confronta, do nascente, com casa foreira cororaria e ficou unida ao n.º 8 no ano de 1674.",
+      "lugar": [
+        "rua do Forno"
+      ],
+      "data": [
+        "1674"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "40320eca-e151-44d9-982d-7c2dfd6326f2",
+  "numero": 10,
+  "enfiteuta": "",
+  "foro": "115 reis e 8 pretos (de censo)",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "169c437b-5536-45ba-aa96-c56828ed39b8",
+      "text": "Parte desta casa pertence à Esmola e parte ao chantrado. Confronta, do poente, com casa foreira à cororaria e com o n.º 9.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Esmola"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "a001a1a5-9ddb-494f-a7e4-f36aa56df0d0",
+  "numero": 11,
+  "enfiteuta": "Padre Luís de Faria",
+  "foro": "100 reis e 1 galinha",
+  "rua": "r10",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "5f84649f-8eb6-4ec0-833c-d5be1a3f6a76",
+  "numero": 12,
+  "enfiteuta": "Lic. Manuel de Feria da Cunha",
+  "foro": "70 reis e 1 galinha",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "328f8f1e-ce9c-4fa9-9f6c-6045ee74126d",
+      "text": "Foi construída em pertenças do n.º 11 no ano de 1694.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1694"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b085e0c4-93d3-4f49-8ee8-581aada688b8",
+  "numero": 13,
+  "enfiteuta": "Manuel Francisco, alfaiate",
+  "foro": "410 e 4 galinhas",
+  "rua": "r10",
+  "desc": [
+    {
+      "_id": "d6fe5b8c-b100-48dc-bbe8-0af021be774b",
+      "text": "Confronta, do nascente, com casa foreira ao Hospital de S. Marcos.",
+      "lugar": [
+        "Hospital de S.Marcos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "d9a41643-4858-4a2b-9d0b-bb40db6ad67d",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "a64db7fe-424e-4290-833b-f20ecf4fcddf",
+      "text": "O enfiteuta é filho de Alexandre Pereira Marinho, sendo o emprazamento feito no ano de 1724. A casa foi construída em 1535, em pertenças da casa n.º 9, da Rua de S. João.",
+      "lugar": [
+        "Rua de S. João"
+      ],
+      "data": [
+        "1724",
+        "1535"
+      ],
+      "entidade": [
+        "Alexandre Pereira Marinho"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ec092452-6ddc-4035-96bc-9e03e8e0ca9c",
+  "numero": 2,
+  "enfiteuta": "Francisco Pereira Marinho",
+  "foro": "280 reis e 1 galinha",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "8ce6790b-2f15-44ee-bafa-36a6716311d6",
+      "text": "O enfiteuta é filho de Alexandre Pereira Marinho, sendo o emprazamento feito no ano de 1724. A casa foi construída em 1535, em pertenças da casa n.º 9, da Rua de S. João.",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        "1724",
+        "1535"
+      ],
+      "entidade": [
+        "Alexandre Pereira Marinho"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "c2e82c9e-8e52-46f9-8826-ce0c40d91d9e",
+  "numero": 3,
+  "enfiteuta": "João Pereira do Lago",
+  "foro": "470 reis e 2 galinhas",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "7f7644ac-6917-458e-be49-524c82b46a99",
+      "text": "Foi construída em pertenças do n.º 9, da rua de S. João.",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "721b0830-6a4d-4375-aeb3-131ac4b2852f",
+  "numero": 4,
+  "enfiteuta": "Francisco Correia, carpinteiro",
+  "foro": "520 reis e 2 galinhas",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "a290e4a5-4107-4ec4-bbd2-915e77bddc6e",
+      "text": "A casa n.º 4 confronta, do sul, com casa foreira à Capela de Nossa Senhora da Glória.",
+      "lugar": [
+        "Capela de Nossa Senhora da Glória"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "10342ff0-6e25-4ab3-bd18-27d6d2a60abc",
+  "numero": 5,
+  "enfiteuta": "Rev. João de Sousa Lima, Mestre Escola",
+  "foro": "320 reis e 2 galinhas",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "ae51320e-5e9c-4feb-8f03-f899670a6abe",
+      "text": "Confronta, do norte, com casa foreira à Capela de Nossa Senhora da Glória e, do sul, com casa foreira à Igreja de S. Pedro d'Este.",
+      "lugar": [
+        "Capela de Nossa Senhora da Glória",
+        "Igreja de S. Pedro d'Este"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "c2caf556-3433-4f3c-b168-0f47624ff278",
+  "numero": 6,
+  "enfiteuta": "Dr. José Peixoto",
+  "foro": "400 reis e 2 capões",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "e19eb0ba-fb55-43c6-a296-3e5030907230",
+      "text": "Confronta, do norte, com casa foreira à Igreja de S. Pedro d'Este.",
+      "lugar": [
+        "Igreja de S. Pedro d'Este"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b2f2796c-a244-47d9-a4df-236af7a0ad29",
+  "numero": 7,
+  "enfiteuta": "Francisco da Costa de Mesquita, ciudão de Braga",
+  "foro": "120 reis e 2 galinhas",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "bb2787f4-d735-496b-b35d-a7b14a38cc6e",
+      "text": "Foi construída em 1554,em pretenças do n.º 8.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1554"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "030ca57d-816c-4d93-8232-74196df72070",
+  "numero": 8,
+  "enfiteuta": "Lie. João Carvalho Ferreira",
+  "foro": "630 reis e 4 galinhas",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "8297ce01-be3c-4b91-97c5-09d9150d6282",
+      "text": "A casa n.º 9 confronta, do sul, com a travessa que vai para a Rua de S. João e, foi unida ao n.º 8, no ano de 1674. O prazo é constituído, ainda, pelo n.º 9 da travessa da Rua de S. João para a do Forno.",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        "1674"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "d148783d-8cc2-4252-96c9-1135febeda93",
+  "numero": 10,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "55cc030e-4e5a-4aae-9280-40d9a6a1e41a",
+      "text": "Corresponde ao n.º 7 da travessa que vai para a Rua de S. João, para onde tem a frontaria e serventia principais. No ano de 1596, o n.º 11 foi unido ao n.º 10, constituindo um só prazo.",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        "1596"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "fb133301-6d53-4860-883d-713c3d26de23",
+  "numero": 12,
+  "enfiteuta": "Carlos Magalhães de Azevedo, Cónego",
+  "foro": "290 reis e 2 galinhas",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "efbb3d5b-e9ac-4b9e-96e6-be7193891bfc",
+      "text": "Pertence ao n.º 5 da travessa da Rua de S. João para a do Forno. A denominação de «Forno do Infante» advém-lhe de ter sido construída no local onde, antes de 1481, funcionou o antigo forno.",
+      "lugar": [
+        "Rua de S.João"
+      ],
+      "data": [
+        "1481"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3c486baf-ff29-4db5-8fff-49dcc58114e6",
+  "numero": 13,
+  "enfiteuta": "Padre Luís da Cunha, Congregado",
+  "foro": "60 reis e 1 galinha",
+  "rua": "r11",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "dfc8b81c-add7-4fab-9719-41b4469f8528",
+  "numero": 14,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "52b8391e-2d14-46e7-b1e1-b329ed56b6b4",
+      "text": "Não aparece desenhada no mapa, por ter sido demolida e incorporada no Colégio de S. Paulo da Companhia de Jesus. Inicialmente foi foreira à obra da Sé. Depois de 1568, foi trocada por outra casa do referido Colégio.",
+      "lugar": [
+        "Sé"
+      ],
+      "data": [
+        "1568"
+      ],
+      "entidade": [
+        "Colégio de S. Paulo da Companhia de Jesus"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "07322028-ad1b-44b3-8b31-acca7d0482bc",
+  "numero": 15,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "a5f5a2e5-e5f6-43d6-8317-51106d11f91d",
+      "text": "Correspondem ao n.º 1 da travessa que vai da Rua do Forno para a do Poço, para onde têm a frontaria e serventia principais. No prazo da casa n.º 19 foi incorporado o n.º 15, em 1673, e os n.º 17 e 18, em 1561",
+      "lugar": [
+        "rua do Forno"
+      ],
+      "data": [
+        "1673",
+        "1561"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ccbf8cc2-f61f-4e13-b856-89b990d99875",
+  "numero": 16,
+  "enfiteuta": "",
+  "foro": "54 reis (de censo)",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "33162aec-2ff1-4525-bf1f-e1996a757a63",
+      "text": "A casa é foreira ao chantrado. O censo é pago pelo Dr. Francisco Gomes do Couto.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Dr. Francisco Gomes do Couto"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "000dfbfa-65ab-4528-bc72-d3a031cd9f21",
+  "numero": 20,
+  "enfiteuta": "António Barreto de Meneses",
+  "foro": "240 reis e 2 galinhas",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "32b53005-3420-4fbc-96fb-aa6bade02f6e",
+      "text": "O enfiteuta sucedeu a Constantino Barreto de Meneses e ao Rev. Abade Jerónimo de Araújo . O n.º 20 situa-se na esquina que dá para a travessa que vai para a Rua do Poço e confronta, do sul, com a dita travessa e, do norte, com casa de vínculo. O n.º 21 confronta, do Sul, com a referida casa de vínculo. O n.º 10 da travessa da rua do Forno para a do Poço faz parte do n.º 20.",
+      "lugar": [
+        "rua do Forno",
+        "Rua do Poço"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Constantino Barreto de Meneses",
+        "Rev. Abade Jerónimo de Araújo"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "85ba28e9-a91b-4df5-85cf-372713b1bc75",
+  "numero": 21,
+  "enfiteuta": "António Barreto de Meneses",
+  "foro": "500 reis e 2 capões",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "cbfc7ea0-8ce5-4032-a803-c95b7d2186b4",
+      "text": "O enfiteuta sucedeu a Constantino Barreto de Meneses e ao Rev. Abade Jerónimo de Araújo . O n.º 20 situa-se na esquina que dá para a travessa que vai para a Rua do Poço e confronta, do sul, com a dita travessa e, do norte, com casa de vínculo. O n.º 21 confronta, do Sul, com a referida casa de vínculo. O n.º 10 da travessa da rua do Forno para a do Poço faz parte do n.º 20.",
+      "lugar": [
+        "Rua do Poço",
+        "rua do FOrno"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Constantino Barreto de Meneses",
+        "Rev. Abade Jerónimo de Araújo"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "8a510dc4-eb6c-4db4-b7cc-d2b855b198a9",
+  "numero": 22,
+  "enfiteuta": "Manuel Ribeiro Pereira",
+  "foro": "200 reais e 3 galinhas",
+  "rua": "r11",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "200e9c11-337e-4053-9808-1242544329a2",
+  "numero": 23,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "a0b529f7-07a8-468a-8e25-d5e5ec18b492",
+      "text": "Pertence ao n.º 4",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9e0e4699-2ac4-44e4-b4af-d5bacb0d538a",
+  "numero": 24,
+  "enfiteuta": "Teresa da Silveira, viúva de Sebastião do Couto",
+  "foro": "300 reis e 2 galinhas",
+  "rua": "r11",
+  "desc": [
+    {
+      "_id": "2b070b1f-9a9c-49cc-ad5f-a82337993941",
+      "text": "O emprazamento foi feito em 1710.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1710"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "018dcf83-8485-4b84-bc18-6eaa08e9cb92",
+  "numero": 1,
+  "enfiteuta": "Dr. Francisco Gomes do Couto",
+  "foro": "600 reis e 8 galinhas",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "5eda129d-1447-4fa7-92a2-eae0d70d2354",
+      "text": "A casa n° 1 confronta, do nascente, com a Rua do Forno. Fazem parte deste prazo os n° 15. 16, 17, 18 e 19, da Rua do Forno ou dos Cegos . A casa n° 16 é foreira ao chantrado e paga de censo ao cabido 2 maravedis, ou seja. 54 reis.",
+      "lugar": [
+        "Rua do Forno",
+        "Rua do Forno ou dos Cegos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "cabido 2 maravedis"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "29bfc0f6-c3c3-4609-90b3-74ee30641380",
+  "numero": 2,
+  "enfiteuta": "",
+  "foro": "108 reis (de censo)",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "da7a0a0b-976e-400a-b332-a345ef1b0e26",
+      "text": "A casa n° 1 confronta, do nascente, com a Rua do Forno. Fazem parte deste prazo os n° 15. 16, 17, 18 e 19, da Rua do Forno ou dos Cegos . A casa n° 16 é foreira ao chantrado e paga de censo ao cabido 2 maravedis, ou seja. 54 reis.",
+      "lugar": [
+        "Rua do Forno",
+        "Rua do Forno ou dos Cegos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "cabido 2 maravedis"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "6e1d5aea-2ae7-4891-8064-dae5e888acdc",
+  "numero": 3,
+  "enfiteuta": "Pedro da Cunha Sottomaior",
+  "foro": "1050 reis e 4 galinhas",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "21bc155e-149a-4af3-ad63-55a0f03e70c5",
+      "text": "A casa n° 3 confronta, do sul, com a Rua dos Palhais e,foi unida ao n° 4 em 1622. A casa n.º 4 foi deixada ao cabido pelo arcediago de Vermoim. Francisco Fernandes, com encargo de um aniversário de três lições.",
+      "lugar": [
+        "Rua dos Palhais"
+      ],
+      "data": [
+        "1662"
+      ],
+      "entidade": [
+        "cabido pelo arcediago de Vermoim",
+        "Francisco Fernandes"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "2c822dee-e2ba-4f4a-9005-5cb610385b3a",
+  "numero": 4,
+  "enfiteuta": "Pedro da Cunha Sottomaior",
+  "foro": "1050 reis e 4 galinhas",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "4e969fc7-befa-4140-b663-65460c6e0157",
+      "text": "A casa n° 3 confronta, do sul, com a Rua dos Palhais e,foi unida ao n° 4 em 1622. A casa n.º 4 foi deixada ao cabido pelo arcediago de Vermoim. Francisco Fernandes, com encargo de um aniversário de três lições.",
+      "lugar": [
+        "Rua dos Palhais"
+      ],
+      "data": [
+        "1622"
+      ],
+      "entidade": [
+        "cabido pelo arcediago de Vermoim",
+        "Francisco Fernandes"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "a7289a3f-71f9-498d-b03e-17bd9baa7ac8",
+  "numero": 5,
+  "enfiteuta": "",
+  "foro": "54 reis (de censo)",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "1182c543-9e65-4bfa-9617-61a796981683",
+      "text": "É foreira ao morgado de Real. O censo é pago por Lopo de Barros de Almeida.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Real",
+        "Lopo de Barros de Almeida"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "d3608b60-2408-4abc-9065-a377a0c77b6a",
+  "numero": 6,
+  "enfiteuta": "Padre António de Sousa e Alvim",
+  "foro": "400 reis e 1 galinha",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "0ed9336f-e86c-4401-9fe7-f061a55af49d",
+      "text": "Situa-se na esquina da Rua do Poço e confronta, do sul, com a casa n° 17 da dita rua. Pertence a este prazo o n.º16, da Rua de Santa Maria ou do Poço.",
+      "lugar": [
+        "Rua do Poço",
+        "Rua de Santa Maria ou do Poço"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "424a4ea7-84fc-4a7f-8e33-59c8600e1c4b",
+  "numero": 7,
+  "enfiteuta": "Os herdeiros de João do Vale Campos",
+  "foro": "1200 reis e 8 galinhas",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "38f578b9-745c-418a-a33a-2a1967a8fd97",
+      "text": "Ao prazo n.º 7 foram unidos, em 1561, dois ênxidos que se separaram dos n.º 13 e 14 da Rua do Poço e, em 1677. as casas dos referidos n.ºs.",
+      "lugar": [
+        "Rua do Poço"
+      ],
+      "data": [
+        "1561",
+        "1677"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "454888a9-f522-49f1-9804-6b5e0ff80f69",
+  "numero": 8,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "ab5e6dd5-6600-480e-9f54-985c7ff563a0",
+      "text": "Corresponde ao n.° 2 da Rua Pequena.",
+      "lugar": [
+        "Rua Pequena"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "d836d720-deb5-4069-9f0e-ea483553659c",
+  "numero": 9,
+  "enfiteuta": "Os herdeiros de Henrique de Sousa e Alvim",
+  "foro": "330 reis e 2 galinhas",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "546e2d46-640e-4aaa-aa17-f49af26ffdc4",
+      "text": "Confronta, do nascente, com casa foreira à cororaria.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "a380ebb2-3aec-4634-9bcf-f7bd7a2d0ec9",
+  "numero": 10,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r12",
+  "desc": [
+    {
+      "_id": "0b09fff9-5385-406e-a352-3d660613ac9e",
+      "text": "Corresponde ao n.º 20 da Rua do Forno, para onde tem a frontaria e serventia principais. Confronta, do poente, com casa foreira à cororaria.",
+      "lugar": [
+        "rua do Forno"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "f3595315-2605-4cb1-ab85-7a5cf518e81f",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r13",
+  "desc": [
+    {
+      "_id": "61b8c527-5330-4f70-9e74-96464e4df3b4",
+      "text": "Corresponde ao n° 8 da Rua das Oussias, para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua das Oussias"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "adfe4632-7fb0-45c1-8cfc-62d9ecb05874",
+  "numero": 2,
+  "enfiteuta": "Francisco de Sousa Castro",
+  "foro": "875 reis e 2 galinhas",
+  "rua": "r13",
+  "desc": [
+    {
+      "_id": "7af45fef-23e0-4ae6-a68b-5a4f12cc01c3",
+      "text": "Prazo constituído por casa, quintal e palheiro. este incorporado em 1618 e pertencente ao n.º 1.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1618"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "7bd591df-7d91-47c4-9c03-aa6a10e3d977",
+  "numero": 3,
+  "enfiteuta": "D. Filipa Maria de Melo",
+  "foro": "240 reis",
+  "rua": "r13",
+  "desc": [
+    {
+      "_id": "ae91c3f6-ea6f-4056-9444-64a85fe80b47",
+      "text": "Confronta, do norte, com casa dízima a Deus e com o n° 2 e, do sul, com casa foreira ao morgado de Real.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b7005743-6cc9-445f-80d2-88c6e2cb6ada",
+  "numero": 4,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r13",
+  "desc": [
+    {
+      "_id": "3f0b0c0b-69cf-44fe-bba7-3d2a0495af29",
+      "text": "Corresponde ao n° 7 da travessa que vai da Rua do Poço ou de Santa Maria para a do Forno, para onde tem frontaria e serventia principais.",
+      "lugar": [
+        "travessa",
+        "Rua do Poço",
+        "Santa Maria",
+        "Forno"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "66346945-ac16-4098-bba1-e60aada22d95",
+  "numero": 5,
+  "enfiteuta": "Miguel Teodósio Fiuza de Sottomayor. viúvo de Amarante",
+  "foro": "320 reis e 1 capão",
+  "rua": "r13",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "cda9c002-4b53-43bc-980a-bdb56b6c0a26",
+  "numero": 6,
+  "enfiteuta": "Lic. Paulo de Sousa de Magalhães",
+  "foro": "220 reis e 2 capões",
+  "rua": "r13",
+  "desc": [
+    {
+      "_id": "4ef30d37-fe7e-4d41-ae1e-60372b7adc58",
+      "text": "Este prazo encontra-se unido desde 1583.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1583"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b029e64b-fddd-4dd4-8980-a9124ab63d0c",
+  "numero": 7,
+  "enfiteuta": "Lic. Paulo de Sousa de Magalhães",
+  "foro": "220 reis e 2 capões",
+  "rua": "r13",
+  "desc": [
+    {
+      "_id": "dab48237-cf0b-4f90-80f9-e921f9b18c5d",
+      "text": "Este prazo encontra-se unido desde 1583.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1583"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "d55e123e-b93c-47bf-8ab5-987a11ff4b03",
+  "numero": 8,
+  "enfiteuta": "Francisca Teresa Petiz",
+  "foro": "70 reis e 1 galinha",
+  "rua": "r13",
+  "desc": [
+    {
+      "_id": "b1c1c16b-de2e-457b-a6db-0d16a9f0e8b3",
+      "text": "A enfiteuta foi herdeira do Reitor de Freitas, José Ferreira Petiz. A casa foi construída, depois de 1587, em pertenças do n.º 9 da Rua do Poço ou de Santa Maria",
+      "lugar": [
+        "Rua do Poço",
+        "Santa Maria"
+      ],
+      "data": [
+        "1857"
+      ],
+      "entidade": [
+        "José Ferreira Petiz"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "5e2d7212-41e4-4fdb-9efb-cbb3d37580ed",
+  "numero": 9,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r13",
+  "desc": [
+    {
+      "_id": "56208338-7fcf-4ca2-87ae-3d5c7667e754",
+      "text": "Corresponde ao n.º 9 da Rua das Oussias, para onde tem a frontaria e serventia principais. Situa-se na esquina da Rua Pequena e terreiro das Oussias.",
+      "lugar": [
+        "Rua das Oussias",
+        "Rua Pequena",
+        "terreiro das Oussias"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "7909ef00-999b-4bfa-b2a2-16e7ba3f15d0",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r15",
+  "desc": [
+    {
+      "_id": "e26f7036-9ef9-4a82-ad82-d844269f7e59",
+      "text": "Pertencem ao n.º 21 da Rua do Poço, para onde têm a frontaria e serventia principais. Foram unidas no ano de 1609.",
+      "lugar": [
+        "Rua do Poço"
+      ],
+      "data": [
+        "1609"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "21aa9b25-2e47-4a26-b48e-c20da9b6d5c9",
+  "numero": 2,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r15",
+  "desc": [
+    {
+      "_id": "0d7c6c1c-35c0-49a6-a4b6-73521bf03241",
+      "text": "Pertencem ao n.º 21 da Rua do Poço, para onde têm a frontaria e serventia principais. Foram unidas no ano de 1609.",
+      "lugar": [
+        "Rua do Poço"
+      ],
+      "data": [
+        "1609"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "23b1b6da-beeb-49fa-99f5-9bcee302a574",
+  "numero": 3,
+  "enfiteuta": "Os herdeiros de Francisco Almeida Cabral e de sua mulher, D.Josefa Luísa de Araújo",
+  "foro": "200 reis e 2 galinhas",
+  "rua": "r15",
+  "desc": [
+    {
+      "_id": "da6741ff-a2b5-4474-846b-50dbe1ea7e8d",
+      "text": "As casa n.º 2 e 3 estiveram unidas, num só prazo, ao n° 4, entre os anos de 1533 e 1597",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1533 e 1597"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "4ff63bc3-5a7b-4074-9e0d-7246b851c448",
+  "numero": 5,
+  "enfiteuta": "Miguel Luís Dias, escrivão dos casamentos da cidade de Braga, e sua mulher Adriana Maria Ribeiro",
+  "foro": "330 reis e 2 galinhas",
+  "rua": "r15",
+  "desc": [
+    {
+      "_id": "028c9475-9e8e-4413-bd7a-1b6aff41ddba",
+      "text": "O n.º 5 situa-se defronte da porta do açougue.",
+      "lugar": [
+        "açougue"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "0df09831-a9d9-4c7e-99f3-0907ea6d82be",
+      "text": "Ao n° 6, pertence uma casa terceira da rua que vai desta travess a para Santiago. Possui frontaria para a Rua de D. Gualdim.",
+      "lugar": [
+        "travess",
+        "Santiago",
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "79b62a1d-8dde-4266-96ea-9f33abbc5714",
+  "numero": 6,
+  "enfiteuta": "Miguel Luís Dias, escrivão dos casamentos da cidade de Braga, e sua mulher Adriana Maria Ribeiro",
+  "foro": "450 reis e 2 galinhas",
+  "rua": "r15",
+  "desc": [
+    {
+      "_id": "66123dca-05dd-4810-b445-2e182d4ebe09",
+      "text": "O n.º 5 situa-se defronte da porta do açougue.",
+      "lugar": [
+        "açougue"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "f3a7f578-852b-4dd1-a73f-64f6c7d4bdc9",
+      "text": "Ao n° 6, pertence uma casa terceira da rua que vai desta travess a para Santiago. Possui frontaria para a Rua de D. Gualdim.",
+      "lugar": [
+        "travess",
+        "Santiago",
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9ed21975-7b84-4617-b389-3f5f69621100",
+  "numero": 7,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r15",
+  "desc": [
+    {
+      "_id": "bc1727b7-f958-4cb5-85ae-33fc2ee3aa59",
+      "text": "Correspondem ao n° 7 da Rua de D. Gualdim, para onde têm a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0ee8675b-63d3-4379-b5dd-268c24fb25a1",
+  "numero": 8,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r15",
+  "desc": [
+    {
+      "_id": "265e7678-88f5-437d-a482-50e0797a4e17",
+      "text": "Correspondem ao n° 7 da Rua de D. Gualdim, para onde têm a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "6d7623f0-1cee-42ac-a3ab-caf39f00436e",
+  "numero": 9,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r15",
+  "desc": [
+    {
+      "_id": "b4443ed6-9ed7-4eba-a287-b6ac00a16f94",
+      "text": "Corresponde ao n° 22 da Rua do Poço, para onde tem a frontaria principal.",
+      "lugar": [
+        "Rua do Poço"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "e2a4e78f-114e-4279-8cbd-5aeea7fc0b14",
+  "numero": 1,
+  "enfiteuta": "Padre José António Pereira",
+  "foro": "290 reis e 2 galinhas",
+  "rua": "r17",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "c1384228-d5bc-497c-833e-5cd55929b81e",
+  "numero": 2,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r17",
+  "desc": [
+    {
+      "_id": "b6046500-6601-4539-baa9-a4c05e113d35",
+      "text": "Corresponde ao n.º 1 da Rua de Santo António, para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de Santo António"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "087656e2-f316-4e1e-a018-751da6f0b8b2",
+  "numero": 3,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r17",
+  "desc": [
+    {
+      "_id": "a60c28c2-e263-43cd-8159-f7d67cff2352",
+      "text": "Corresponde ao n.º 22 da Rua de Santo António, para onde tem a frontaria e serventia principais",
+      "lugar": [
+        "Rua de Santo António"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "cd7e8c25-e488-4f39-88c1-432b41c9e0d2",
+  "numero": 4,
+  "enfiteuta": "Inácio José Leite, ourives",
+  "foro": "225 e reis e 3 galinhas",
+  "rua": "r17",
+  "desc": [
+    {
+      "_id": "a33f84ea-abbf-4fc9-a24d-8f1453a0b879",
+      "text": "Fica situada nesta travessa «na parte que, à mão direita, liga a Rua das Chagas à Rua Verde.",
+      "lugar": [
+        "Rua das Chagas",
+        "Rua Verde"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "dbdcaeb0-2ea5-4c5a-875f-bff976be2d64",
+  "numero": 5,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r17",
+  "desc": [
+    {
+      "_id": "45c56b33-918c-49bc-8156-babfc63b64ce",
+      "text": "Corresponde ao n.º 15 da Rua de D. Gualdim , para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "a425558d-5bd1-4b1d-a2bc-d4757efafd39",
+  "numero": 1,
+  "enfiteuta": "D. Inácia Gomes da Costa",
+  "foro": "180 reis e 2 galinhas",
+  "rua": "r18",
+  "desc": [
+    {
+      "_id": "825c15ca-2125-41cc-a21d-32c38232fa87",
+      "text": "A enfiteuta é filha do Dr. Manuel Gomes da Costa.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Dr. Manuel Gomes da Costa"
+      ]
+    },
+    {
+      "_id": "ade0fdba-2741-4093-bac0-0ea4738afe93",
+      "text": "A serventia dá-se pelo n.º 8 da Rua de Maximinos",
+      "lugar": [
+        "Rua de Maximinos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "d7cbd283-2f43-4287-948c-5714989c2ff9",
+      "text": "Confronta, do norte, com casa foreira à Igreja de Santiado da Cividade.",
+      "lugar": [
+        "Igreja de Santiado da Cividade"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "27b64582-a74e-4cd7-8d5b-090deef7c9b6",
+  "numero": 2,
+  "enfiteuta": "D. Inácia Gomes da Costa",
+  "foro": "140 reis e 2 galinhas",
+  "rua": "r18",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "758589f9-b51a-4eb2-9a3f-0fa189c6a071",
+  "numero": 3,
+  "enfiteuta": "D. Inácia Gomes da Costa",
+  "foro": "240 reis e 2 galinhas",
+  "rua": "r18",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "c8e6b0fc-4e4b-42df-b740-7c947203d8cb",
+  "numero": 4,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r18",
+  "desc": [
+    {
+      "_id": "c3efc637-baf6-4fcd-bb58-34f234b6012f",
+      "text": "Pertence ao n.º 8 da Rua de Maximinos, para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de Maximinos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "3ea7a3a7-8f40-4c9c-9e94-b9051d53ebf1",
+      "text": "Confronta do sul com casa foreira à Mitra.",
+      "lugar": [
+        "Mitra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "15238f51-7c29-44de-8ea7-09c2ca76cc15",
+  "numero": 5,
+  "enfiteuta": "D. Inácia Gomes da Costa",
+  "foro": "340 reis e 2 galinhas",
+  "rua": "r18",
+  "desc": [
+    {
+      "_id": "6db03e38-cee9-476c-b4bf-f32b0f9ab7f6",
+      "text": "Confronta, do norte, com casa foreira ao Hospital de Real e, do sul, com casa foreira ao Hospital de S. Marcos",
+      "lugar": [
+        "Hospital de Real",
+        "Hospital de S. Marcos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "18ad34fc-fd2a-4f93-bc89-1d4fe529ebf7",
+  "numero": 6,
+  "enfiteuta": "Os herdeiros de D. Mariana de Castro, viúva de Jacinto de Magalhães e Meneses, fidalgo da Casa Real e Cavaleiro da Ordem de Cristo",
+  "foro": "160 reis e 2 galinhas",
+  "rua": "r18",
+  "desc": [
+    {
+      "_id": "1e29e6f5-4c01-4875-9ad4-27855f1c92b2",
+      "text": "Entre os anos de 1508 e 1597 a casa n.º 7 esteve unida a este prazo.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1508",
+        "1597"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "7f3a45e5-5238-47e1-a96c-5e057c41316a",
+  "numero": 7,
+  "enfiteuta": "Bento Leite Pereira",
+  "foro": "160 reis e 2 galinhas",
+  "rua": "r18",
+  "desc": [
+    {
+      "_id": "dabcccee-c21a-4d7d-94fe-75ee18e5466c",
+      "text": "O enfiteuta é filho de António Pereira",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "António Pereira"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "1562c649-6d68-445e-8a45-f9aa61c3890f",
+  "numero": 8,
+  "enfiteuta": "Os herdeiros de D. Mariana de Castro",
+  "foro": "60 reis e 1 galinha",
+  "rua": "r18",
+  "desc": [
+    {
+      "_id": "208748c7-a2c9-43e8-854f-0aee522a0f19",
+      "text": "Confronta, do sul, com casa foreira ao Hospital de S. Marcos.",
+      "lugar": [
+        "Hospital de S. Marcos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "52a779da-0e8d-465e-b850-3a2a0d439bd8",
+  "numero": 9,
+  "enfiteuta": "António Fernandes, da Rua Nova",
+  "foro": "2 galinhas",
+  "rua": "r18",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "5e2b57ba-6f6b-440d-a267-02a3d381bfee",
+  "numero": 10,
+  "enfiteuta": "Miguel Soares, sapateiro, da Rua dos Sapateiros",
+  "foro": "110 reis e 2 galinhas",
+  "rua": "r18",
+  "desc": [
+    {
+      "_id": "cb64c520-409f-42b3-963f-a590d2c7bcf1",
+      "text": "O enfiteuta é filho de Bento Soares. As casas encontram-se unidas, num só prazo, desde o ano de 1602.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1602"
+      ],
+      "entidade": [
+        "Bento Soares"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "1ac802b1-e800-4bf4-a064-6a870a567756",
+  "numero": 12,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r18",
+  "desc": [
+    {
+      "_id": "2266224c-bdcc-4da4-8c03-730592f8e2f6",
+      "text": "Corresponde ao n.º 10 da Rua de Maximinos, para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de Maximinos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b2001d44-c2f1-4919-ad19-5d21cb9f6b62",
+  "numero": 1,
+  "enfiteuta": "Francisco Soares de Novais, abade de S. Vicente do Bico",
+  "foro": "290 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [
+    {
+      "_id": "920cea19-bb80-467b-aed4-f3d63f9b53a6",
+      "text": "Encontram-se unidas, num só prazo, desde o ano de 1591. Possuem frontaria para a travessa que vem da Rua de D. Gualdim para esta rua.",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        "1591"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "a7f1c393-48c1-4da7-a98f-158a3396865c",
+  "numero": 3,
+  "enfiteuta": "José da Cunda e Sousa",
+  "foro": "1420 e 4 galinhas",
+  "rua": "r19",
+  "desc": [
+    {
+      "_id": "1eb34e2d-d09f-46ea-8987-5b1974068195",
+      "text": "Encontram-se unidas, num só prazo, desde o ano de 1524",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1524"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9289b59b-253c-437c-849e-61ff7b2be6ad",
+  "numero": 5,
+  "enfiteuta": "Padre Miguel de Abreu",
+  "foro": "170 reis e 6 galinhas",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "8cc2d837-3a7a-49aa-9ebe-5873b03e0fc3",
+  "numero": 6,
+  "enfiteuta": "Padre Miguel de Abreu",
+  "foro": "90 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "dd46a960-7e2c-42df-bf61-61ce32210aeb",
+  "numero": 7,
+  "enfiteuta": "Francisco Gonçalves Coudo, casado com Josefa Maria Madureira",
+  "foro": "150 reis e 4 galinhas",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "107450d8-13f0-454b-a996-3c2cecb4b941",
+  "numero": null,
+  "enfiteuta": "1592",
+  "foro": "",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "6abfd638-6153-4da1-8ac4-6d62aa58ebc0",
+  "numero": 9,
+  "enfiteuta": "Felícia Teresa, viúva de Luís de Barros",
+  "foro": "300 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "28f99287-6f22-44e2-aaf7-af8d4da42534",
+  "numero": 10,
+  "enfiteuta": "António Coelho, abade de S. Martinho de Alvito",
+  "foro": "410 reis",
+  "rua": "r19",
+  "desc": [
+    {
+      "_id": "34ed10cf-f205-400e-9525-e76c8b344681",
+      "text": "Possui frontaria para o rossio ou terreiro de Sto. António, com o qual confronta do sul.",
+      "lugar": [
+        "terreiro de Sto. António"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "4d156258-b29e-41b1-9004-ea5e7631723a",
+  "numero": 11,
+  "enfiteuta": "Os herdeiros de Miguel de Araújo Barreto, tenente",
+  "foro": "350 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "8fb88ba0-f7e8-40af-a69f-11bcc7a3751c",
+  "numero": 12,
+  "enfiteuta": "Agostinho Marques do Couto, cónego",
+  "foro": "1360 reis e 4 galinhas",
+  "rua": "r19",
+  "desc": [
+    {
+      "_id": "b6b22d7f-e5bc-44da-adb3-958c563be802",
+      "text": "Estas casas (denominadas «Casas Torres»), encontram-se unidas, num só prazo, desde o ano de 1697. Na casa n.º 12, onde foi colocada a imagem de Sto. António, (antes de 1502), funcionou a antiga sinagoga.",
+      "lugar": [
+        "Casas Torres"
+      ],
+      "data": [
+        "1697",
+        "1502"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0c448fba-2d1c-4533-989a-35ebe5568860",
+  "numero": 14,
+  "enfiteuta": "Agostinho Marques do Couto, cónego",
+  "foro": "350 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [
+    {
+      "_id": "481a5c12-afd8-48fe-be6a-87f66e0a45b1",
+      "text": "Confronta, do norte, com casa foreira ao mosteiro de Bouro.",
+      "lugar": [
+        "mosteiro de Bouro"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ddb073a0-ed98-4859-a7c4-3994314070fb",
+  "numero": 15,
+  "enfiteuta": "Padre Agostinho de Araújo Álvares",
+  "foro": "240 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "6128c1f8-2d00-420c-a8eb-f2db49edd352",
+  "numero": 16,
+  "enfiteuta": "Padre Agostinho de Araújo Álvares",
+  "foro": "420 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "a7ac043f-b90f-4e60-b027-25d8c5e9f276",
+  "numero": 17,
+  "enfiteuta": "Os herdeiros de João Luís Moreira, boticário",
+  "foro": "445 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "7554a9c6-f729-4530-8e7d-5d148dc06731",
+  "numero": 18,
+  "enfiteuta": "Os herdeiros de João Luís Moreira, boticário",
+  "foro": "180 reis e 1 galinha",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "a68b9f07-26b5-4967-ae3a-a62dd085bc51",
+  "numero": 19,
+  "enfiteuta": "Padre Manuel de Chaves",
+  "foro": "430 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "8a7f0f61-18d1-4697-85ca-badc2d48ac08",
+  "numero": 20,
+  "enfiteuta": "António de Lima e Abreu",
+  "foro": "220 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [
+    {
+      "_id": "2e8b4c20-be7e-4149-9537-94baffe9cd5a",
+      "text": "A casa n.º 22 confronta, do norte, com a travessa que vem da Rua de D. Gualdim.",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "1260b52c-2606-47b2-b7d8-8c2e09c535b6",
+  "numero": 21,
+  "enfiteuta": "António de Lima e Abreu",
+  "foro": "520 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [
+    {
+      "_id": "53642b42-29e5-456d-947a-c17dad814ced",
+      "text": "A casa n.º 22 confronta, do norte, com a travessa que vem da Rua de D. Gualdim.",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "2d7f4692-ac25-4b5c-af0f-7fd8700b7f8f",
+  "numero": 22,
+  "enfiteuta": "António de Lima e Abreu",
+  "foro": "440 reis e 2 galinhas",
+  "rua": "r19",
+  "desc": [
+    {
+      "_id": "df262a3a-7511-4c2f-b7b5-239a2d596f58",
+      "text": "A casa n.º 22 confronta, do norte, com a travessa que vem da Rua de D. Gualdim.",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9816cd93-dc7f-4ea3-bd0b-6e89612be346",
+  "numero": 1,
+  "enfiteuta": "Fernando da Cunha Sottomayor",
+  "foro": "320 reis e 4 galinhas",
+  "rua": "r20",
+  "desc": [
+    {
+      "_id": "b1464438-9067-48ed-9a24-b66db5508641",
+      "text": "Encontram-se unidas, num só prazo, desde 1569. A casa n.º 1 confronta, do nascente, com uma parte da casa que é foreira à comenda de S. Pedro de Merelim",
+      "lugar": [
+        "S. Pedro de Merelim"
+      ],
+      "data": [
+        "1569"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "47303fc2-64ca-4c5e-9fc4-123acba8d48f",
+  "numero": 3,
+  "enfiteuta": "João Domingues, casado com Maria Vaz",
+  "foro": "320 reis e 4 galinhas",
+  "rua": "r20",
+  "desc": [
+    {
+      "_id": "4ea5de42-9e2b-4adb-bb10-32f0e6a668ef",
+      "text": "O enfiteuta é da freguesia de Penso, concelho de Melgaço.",
+      "lugar": [
+        "Penso",
+        "Melgaço"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "686566f5-16af-4a7e-802b-4093eb8e2f3b",
+  "numero": 4,
+  "enfiteuta": "D. Doroteia de Vasconcelos, viúva de Francisca Ferreira da Costa",
+  "foro": "250 reis e 2 galinhas",
+  "rua": "r20",
+  "desc": [
+    {
+      "_id": "20e2f5db-98e1-4387-a5ab-9e85b279e2a4",
+      "text": "Confronta, do poente, com casa foreira ao mosteiro de Bouro",
+      "lugar": [
+        "mosteiro de Bouro"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "1918daee-e421-4a69-aa58-d5d364f99f49",
+  "numero": 5,
+  "enfiteuta": "D. Doroteia de Vasconcelos, viúva",
+  "foro": "170 reis e 1 galinha",
+  "rua": "r20",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "49926bab-a893-44d6-9993-20a64ea836d8",
+  "numero": 6,
+  "enfiteuta": "D. Doroteia de Vasconcelos, viúva de Francisca Ferreira da Costa",
+  "foro": "",
+  "rua": "r20",
+  "desc": [
+    {
+      "_id": "714aa4bc-05f5-4b7d-a8e2-13137776d530",
+      "text": "Foram construídas, depois do ano de 1683, no quintal da casa n.º 4 e pagavam foro a este prazo.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9acef7de-f20a-4856-914d-a4a8f2f2bcc9",
+  "numero": 10,
+  "enfiteuta": "Quitéria Maria",
+  "foro": "300 reis e 2 galinhas",
+  "rua": "r20",
+  "desc": [
+    {
+      "_id": "4e382e6f-bfc4-4191-8ef8-6d6d779089e5",
+      "text": "A enfiteuta é filha de António de Araújo, escrivão das apelações, e de sua 2.ª mulher, Ursula de Araújo. A casa foi construída, depois do ano de 1557, em pertenças do n.º 12, da Rua de D. Gualdim",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        "1557"
+      ],
+      "entidade": [
+        "António de Araújo",
+        "Ursula de Araújo"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "580a1a2e-e011-41b0-9315-dfe5e1eb6ae9",
+  "numero": 11,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r20",
+  "desc": [
+    {
+      "_id": "92fbf7d3-cea7-4128-997e-0deeae509939",
+      "text": "Corresponde ao n.º 11 da Rua de D. Gualdim, para onde tem frontaria e serventia principais.",
+      "lugar": [
+        "Rua de D. Gualdim"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "5af89170-a9f1-4859-99f8-4dc2b221ef8a",
+  "numero": 1,
+  "enfiteuta": "Maria Catarina do Céu, religiosa do Salvador",
+  "foro": "170 reis e 2 galinhas",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "e285f65a-901e-4232-8f19-204cd5add89a",
+      "text": "Confronta, do sul, com casa foreira à cororaria.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "48f46e86-e322-4e2b-ae5b-d7b5b03b5f9e",
+  "numero": 2,
+  "enfiteuta": "Faustina Pereira",
+  "foro": "180 reis e 1 galinha",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "f8c160e5-25a1-40d8-b787-86cb5a8e3bfa",
+      "text": "A enfiteuta é filha de Francisco Rodrigues, torneiro.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Francisco Rodrigues"
+      ]
+    },
+    {
+      "_id": "3f665cab-d452-46e5-83a1-579bfa5d134c",
+      "text": "Confronta, do norte, com casa foreira à cororaria. Entre os anos de 1670 e 1724 esteve unida ao n.º 3.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1670",
+        "1724"
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "f227cd49-a030-4d7c-840e-d42082f7ab02",
+      "text": "Confronta, do norte, com casa foreira à cororaria. Entre os anos de 1670 e 1724 esteve unida ao n.º 3.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1670",
+        "1724"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "57db07ad-acec-4d49-ab60-9d036d8a87df",
+  "numero": 3,
+  "enfiteuta": "Constantino Teixeira",
+  "foro": "175 reis e 1 galinha",
+  "rua": "r21",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "c984e43f-0e62-4ada-bc7e-e6eb000f4fb6",
+  "numero": 4,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "660e1984-b3ed-4363-b2f4-a31b0d951d10",
+      "text": "Corresponde, desde o ano 1627 , à casa n.º 12 da Rua de St.º António. Encontra-se situada defronte do <lugar>postigo de S. Sebastião",
+      "lugar": [
+        "postigo de S. Sebastião",
+        "Rua de St.º António"
+      ],
+      "data": [
+        "1627"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "f512b813-eeb1-4120-a8ea-157fe726a8cd",
+  "numero": 5,
+  "enfiteuta": "António Pereira, sapateiro",
+  "foro": "100 reis e 1 galinha",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "192bf566-1704-4e55-b20a-412c1caa7843",
+      "text": "O enfiteuta é filho de Teresa da Costa e de seu marido António Pereira",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Teresa da Costa",
+        "António Pereira"
+      ]
+    },
+    {
+      "_id": "9ca5fdcb-0b9a-448b-9e41-08ac10b88364",
+      "text": "Encontram-se situadas junto ao postigo de S. Sebastião e foram construídas, antes de 1563, no «lugar do Sabugal», pertencente ao n.º 12 da Rua de Sto. António.",
+      "lugar": [
+        "Rua de Sto. António",
+        "postigo de S. Sebastião",
+        "lugar do Sabugal"
+      ],
+      "data": [
+        "1563"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "8dc1d447-1fa3-49b0-bb2f-5d1b405d10e3",
+  "numero": 8,
+  "enfiteuta": "Teresa da Costa, viúva de António Pereira",
+  "foro": "2 galinhas",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "74493f81-4d74-4e12-b940-25dd22e8b4ac",
+      "text": "Quintal denominado do Sabugal, que foi de José de Araújo Teixeira",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "José de Araújo Teixeira"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "264b59a9-6fde-4ddf-a358-5b23befd15dd",
+  "numero": 9,
+  "enfiteuta": "Salvador Pinto, guarda da Sé",
+  "foro": "220 reis e 2 galinhas",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "00814ca7-d478-43d1-a91b-44515b5733a1",
+      "text": "Estão unidas, num só prazo, desde o ano de 1549. A casa n.º 9, confronta, do sul com casa foreira ao Hospital de S. Marcos",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1549"
+      ],
+      "entidade": [
+        "Hospital de S. Marcos"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "70b83594-30b9-40f9-8b94-68a5be2fafd8",
+  "numero": 11,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "e38d234b-86cc-489e-b2d9-4a493c3aec2b",
+      "text": "aga pensão à obra da Sé. São enfiteutas os herdeiros de Maria Ribeiro, que pagam 80 reis de foro.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Maria Ribeiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9f75c95a-cc66-46c5-8849-4af3603031fe",
+  "numero": 12,
+  "enfiteuta": "José Pereira, sapateiro",
+  "foro": "95 reis e 1 galinha",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "495e8e30-c232-463d-94b9-7d3cb894c5a5",
+      "text": "O enfiteuta foi dotado com esta casa.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "019a990b-9984-4298-97bc-8f081e530801",
+  "numero": 13,
+  "enfiteuta": "Manuel da Costa Vasconcelos",
+  "foro": "320 reis e 7 galinhas",
+  "rua": "r21",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "313cc6a1-9eba-4736-891b-883c816f8b43",
+  "numero": 14,
+  "enfiteuta": "Padre Matias de Lemos",
+  "foro": "30 reis e 2 galinhas",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "365c2b93-3635-4b33-b0f5-00b75629d9d5",
+      "text": "Entre os anos de 1609 e 1640 pertenceu ao n.º 13.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1609",
+        "1640"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "849f4653-bcbd-4100-8c7c-d940e55ba575",
+  "numero": 15,
+  "enfiteuta": "Manuel da Costa Vasconcelos",
+  "foro": "265 reis e 2 galinhas",
+  "rua": "r21",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "c62fa0b1-b8b1-423a-9488-eb226949aaaa",
+  "numero": 17,
+  "enfiteuta": "Os herdeiros de Duarte Mendes de Oliveira",
+  "foro": "1 galinha",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "f2d79a52-22e1-4846-a540-9e19bbe1c4b8",
+      "text": "Os enfiteuras pagavam um foro muito pequeno, dado que as casas tinham sido consideradas arruinadas no último emprazamento, etectuado no ano de 1673.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1673"
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "c515585e-ce6f-43ea-861d-31bb19a43760",
+      "text": "Confrontam, do Sul, com casas foreiras ao Hospital de S. Marcos",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Hospital de S. Marcos"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b74172e0-66bb-4004-9288-a827e6b4bfaf",
+  "numero": 19,
+  "enfiteuta": "Manuel Vieira",
+  "foro": "225 reis e 2 galinhas",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "3d6b6814-830d-47cd-8821-cc9c1d049b02",
+      "text": "Estas casas tinham pertencido a Isabel da Silva e, anteriormente, a Julião Lopes",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Isabel da Silva",
+        "Julião Lopes"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "5792ef47-3b31-4039-a24b-4f1c38aeb999",
+  "numero": 20,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r21",
+  "desc": [
+    {
+      "_id": "54c2943a-b273-46d2-b9a9-9ee13563893f",
+      "text": "Corresponde ao n.º 12 da Rua de Maximinos, para onde tem a fronteira e serventia principais.",
+      "lugar": [
+        "Rua de Maximinos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "91099e89-458d-4666-8793-e37cbdb4636f",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "69a5cda6-fb55-49ea-9d15-ff237ef4b28f",
+      "text": "Pertence ao n.º 13 da Rua Nova de Sousa, para onde tem a frontaria e seventia principais.",
+      "lugar": [
+        "Rua Nova de Sousa"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "7e5f279d-a8ca-4f3d-8167-dd7ff7ab5f0b",
+  "numero": 2,
+  "enfiteuta": "Luís de Abreu, sapateiro",
+  "foro": "300 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "5c11079f-918b-4521-b226-703f0c733bef",
+      "text": "Esta casa foi da sogra de Luís de Abreu, Helena Vaz, filha de Manuel de Freitas",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Luís de Abreu",
+        "Helena Vaz",
+        "Manuel de Freitas"
+      ]
+    },
+    {
+      "_id": "fd8ca787-3e88-4171-b888-8131a1e788e7",
+      "text": "Confronta, do norte, com casa foreira à comenda de Rio Frio.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b8f7d06d-47b8-4028-bded-0a4f939c70c9",
+  "numero": 3,
+  "enfiteuta": "António Vieira de Araújo",
+  "foro": "340 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "4a357a0d-1f89-4e5e-bd84-361409ce0bb8",
+      "text": "Confronta, do norte, com casa foreira à comenda de Rio Frio e, do sul, com casa da cororaria.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3ee748d7-27bd-47a6-ab85-28f09fb709cc",
+  "numero": 4,
+  "enfiteuta": "Quitéria Maria",
+  "foro": "480 reis",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "5696e916-b41d-403e-a7f4-f8aaae0471ba",
+      "text": "Confronta, do norte, com casa foreira à comenda de Rio Frio.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "27d93dde-944d-484c-906f-5d75f15212b4",
+  "numero": 5,
+  "enfiteuta": "Manuel Jácome",
+  "foro": "400 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "9d84150a-c9e8-47aa-a6aa-34427f7b9a25",
+  "numero": 6,
+  "enfiteuta": "Vicente de Barros",
+  "foro": "260 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "525e29c8-366f-4b51-87c8-647bb52edd2f",
+      "text": "O enfiteuta herdara de seus pais, João de Barros e Francisca Pereira",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "João de Barros",
+        "Francisca Pereira"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "cc649847-eca4-40cc-9c16-5bf5d83ff907",
+  "numero": 7,
+  "enfiteuta": "Diogo de Barros, sapateiro, casado com Gracia de Faria",
+  "foro": "220 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "9e476e46-7423-41a6-bbf2-f2f5c44303cd",
+  "numero": 8,
+  "enfiteuta": "Ana Maria Ribeiro, viúva",
+  "foro": "160 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "a405c5a1-01e3-4df3-87fe-5d0640e54230",
+      "text": "Confronta, do sul, com a casa n.º 9, foreira à obra da Sé.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "c19de4d0-339f-43ed-b7f9-8c3874b54334",
+  "numero": 9,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "c91642ce-7d67-4d8f-820e-e833ff510393",
+      "text": "Pertencera a Manuel Gomes de Mascarenhas",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Manuel Gomes de Mascarenhas"
+      ]
+    },
+    {
+      "_id": "23cf0fc3-70d0-47c2-8d7b-74fd4a90d8d0",
+      "text": "É foreira à obra da Sé, à qual paga 2 galinhas. Está emprazada a Maria da Cunha, viúva de Luís Moreira",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Maria da Cunha",
+        "v"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "e6249f1c-0f35-4e23-b369-c331cdba772f",
+  "numero": 10,
+  "enfiteuta": "",
+  "foro": "54 reis (de censo)",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "ae12e1fb-a732-4039-a2ae-89d50c1d25e4",
+      "text": "O censo é pago por Miguel Soares, sapateiro.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Miguel Soares"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "7f69c3d3-f0ff-4598-95ff-8f1b6dee03c6",
+  "numero": 11,
+  "enfiteuta": "Pedro Loureiro",
+  "foro": "340 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "b5383367-8ca6-4ffe-a647-5d29ee448d91",
+      "text": "Confronta, so sul, com casa foreira à cororaria.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3dce38be-315f-4de1-8a4d-4a6e7b82ab8e",
+  "numero": 12,
+  "enfiteuta": "António Pereira de Barros, Reitor da freguesia de Adaúfe",
+  "foro": "380 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "e347ff17-fef7-4c38-b741-9ad0ef68d837",
+      "text": "Entre os anos de 1509 e 1561 o n.º 13 esteve unido a esta casa, constituindo uma só morada, com serventia, pelo n.º 4, da Rua da Vielinha. Desta casa, situada na «agiela da rua», foram feitas diversas escrituras à face do prazo principal depois de 1686",
+      "lugar": [
+        "Rua da Vielinha"
+      ],
+      "data": [
+        "1509",
+        "1561",
+        "1686"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "8a1868a8-625a-41f3-af73-c46de2d6dd22",
+  "numero": 13,
+  "enfiteuta": "Josefa Maria, viúva",
+  "foro": "1460 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "76c310c1-7c98-481d-bdae-29c0f99f5e76",
+      "text": "O prao é constituído por uma casa situada na agiela da Rua da Vielinha, (a que corresponde o n.º 5) e da qual, a partir do ano de 1686, foram feitas várias escrituras de emprazamento.",
+      "lugar": [
+        "Rua da Vielinha"
+      ],
+      "data": [
+        "1686"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "4c2f633c-e9d1-4ac2-844a-391c4fa811e4",
+  "numero": 14,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "bf074ef7-cd42-41c0-bcd4-2848118ca734",
+      "text": "Esta casa é foreira à obra da Sé e encontra-se emprazada a Simão da Costa, sapateiro, casado com Antónia Rodrigues. Paga de foro 340 reis.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Simão da Costa",
+        "Antónia Rodrigues"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0d6c1800-0ab0-4097-9d16-bb484836c9e4",
+  "numero": 15,
+  "enfiteuta": "António de Azevedo, sapateiro, casado com Teresa de Sousa",
+  "foro": "640 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "1e361832-526f-46fd-85b0-88528ee56c30",
+      "text": "Até 1515 faziam parte deste prazo os nº.1 e 3 da Rua da Vielinha",
+      "lugar": [
+        "Rua da Vielinha"
+      ],
+      "data": [
+        "1515"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0eba41c1-385d-40b1-9ccd-b40377f59d4e",
+  "numero": 16,
+  "enfiteuta": "Manuel da Costa, sapatero",
+  "foro": "460 reis e 2 galinhas",
+  "rua": "r23",
+  "desc": [],
+  "__v": 0
+},{
+  "_id": "e6baa641-1144-4e4f-b456-203359fbe587",
+  "numero": 17,
+  "enfiteuta": "",
+  "foro": "108 reis (de censo)",
+  "rua": "r23",
+  "desc": [
+    {
+      "_id": "a681ae2d-762a-4760-b6b4-c2bfe67f8596",
+      "text": "O censo é pago por José Rodrigues Zenha",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "José Rodrigues Zenha"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b759c152-e4cf-4557-93df-4a83276122ea",
+  "numero": 1,
+  "enfiteuta": "Os herdeiros de Filipa Francisca, mulher de Francisco de Freitas",
+  "foro": "20 reis",
+  "rua": "r24",
+  "desc": [
+    {
+      "_id": "a11fa3ff-ac45-4e75-ad05-62cc2a476dff",
+      "text": "Foi pertença do n.º 15 da Rua dos Sapateiros",
+      "lugar": [
+        "Rua dos Sapateiros"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "baae0478-1d2e-4714-b7c9-5d55d848a1c4",
+  "numero": 2,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r24",
+  "desc": [
+    {
+      "_id": "fdc45ddb-60b3-4b90-8cba-7b611592b1f7",
+      "text": "Esta casa pertence à obra da Sé, a quem os herdeiros de Domingos de Araújo, caminheiro, e sua mulher, Catarina Gonçalves, lhe pagam de foro 80 reis. Esteve integrada no prazo de uma casa da Rua dos Sapateiros",
+      "lugar": [
+        "Rua dos Sapateiros"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Domingos de Araújo",
+        "Catarina Gonçalves"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0f7b067b-f060-4d50-900c-c9a87fc4ee43",
+  "numero": 3,
+  "enfiteuta": "Manuel da Silva,padeiro",
+  "foro": "10 reis e 1 galinha",
+  "rua": "r24",
+  "desc": [
+    {
+      "_id": "5e9deda5-b89c-40a8-b852-af45dcdbae6f",
+      "text": "Pertenceu ao n.º 15 da Rua dos Sapateiros",
+      "lugar": [
+        "Rua dos Sapateiros"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "50368562-8d43-479d-9ef2-3548b749a279",
+  "numero": 4,
+  "enfiteuta": "Vid. casa n.º 12, da Rua dos Sapateiros (rua n.º 23).",
+  "foro": "",
+  "rua": "r24",
+  "desc": [
+    {
+      "_id": "a8bbef91-7cf7-44eb-a850-129af7245c2c",
+      "text": "ara> Encontra-se subemprazada aos herdeiros de Manuel Coelho de Araújo, tratante, e sua mulher, Maria da Costa. Faz parte do prazo da casa n.º 12, da Rua dos Sapateiros, à qual paga de foro 2000 reis.",
+      "lugar": [
+        "Rua dos Sapateiros"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Manuel Coelho de Araújo",
+        "Maria da Costa"
+      ]
+    },
+    {
+      "_id": "9e90656a-ed14-4f7e-a463-870ada702df9",
+      "text": "Corresponde a duas casas pequenas, situadas na «agiela» da Rua da Vielinha, da parte norte.",
+      "lugar": [
+        "Rua da Vielinha"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "cdc22a7e-50ab-4c3b-bb59-7d874d0ca4d2",
+  "numero": 5,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r24",
+  "desc": [
+    {
+      "_id": "8ca7c306-a3e9-487d-afa6-b63b8c044121",
+      "text": "Corresponde ao n.º 13 da Rua dos Sapateiros",
+      "lugar": [
+        "Rua dos Sapateiros"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "8b478c4b-6fcd-42b2-be6f-2c347b285b89",
+      "text": "Confronta, do norte, com a agiela da Rua da Vielinha e, do sul, com parte da casa n.º 18 da Rua de Maximinos",
+      "lugar": [
+        "Rua da Vielinha",
+        "Rua de Maximinos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "cf9a2012-0a1b-45e4-8650-314a690d5d0b",
+  "numero": 6,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r24",
+  "desc": [
+    {
+      "_id": "6a14fcea-a0d2-45ab-81f7-27d3b86efd84",
+      "text": "Corresponde ao n.º 18 da Rua de Maximinos, para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de Maximinos"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "2a31d8d1-9f66-4897-9799-224f62aaa32c",
+  "numero": 1,
+  "enfiteuta": "D. António de Noronha de Mesquita Soares",
+  "foro": "400 reis e 2 galinhas",
+  "rua": "r25",
+  "desc": [
+    {
+      "_id": "1b7c1fb3-a031-42dd-9cb6-d5f5c1ab691e",
+      "text": "O enfiteuta é filho de  Garcia de Noronha de Mesquita e Melo e de sua mulher, D. Brites Josefa de Abreu Soares.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Garcia de Noronha de Mesquita e Melo",
+        "D. Brites Josefa de Abreu Soares."
+      ]
+    },
+    {
+      "_id": "d200af82-9d27-4f1f-abd9-e1d855563aba",
+      "text": "Esta casa é cabeça do prazo do lugar ou casal de S. Sebastião. Foram feitas diversas escrituras, à face deste prazo, dos n.º1 a 13 da Rua do Arrabalde da Cruz de Pedra e de uma parte do n.º9 da Rua de S. Miguel o Anjo",
+      "lugar": [
+        "Rua de S. Miguel o Anjo",
+        "Rua do Arrabalde da Cruz de Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "12fff54a-b3b9-4875-97d0-8a554d49cebe",
+  "numero": 2,
+  "enfiteuta": "Jacinto de Magalhães",
+  "foro": "350 reis e ... galinhas",
+  "rua": "r25",
+  "desc": [
+    {
+      "_id": "1e902c0f-9f15-402d-985d-a0c34731161c",
+      "text": "em 1674 o n.º3 e as nove casas que constituiam este prazo foram unidas ao n.º2. A casa n.º2 confronta, do sul, com terreiro da casa n.º1 e, o n.º11, do norte, com casa foreira ao Hospital de S. Marcos",
+      "lugar": [
+        "Hospital de S. Marcos"
+      ],
+      "data": [
+        "1674"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "a5c06453-464e-4e77-8ce5-f5c20c1485ac",
+  "numero": 1,
+  "enfiteuta": "Inácio Peixoto",
+  "foro": "50 reis e 1 galinha",
+  "rua": "r26",
+  "desc": [
+    {
+      "_id": "27065dfa-8d59-4250-9f12-620f344ac774",
+      "text": "Pertenceu ao Padre João Rodrigues. Confronta, do norte com casa foreira à Mitra. Foi construída depois de 1539 em pertenças do nº2.",
+      "lugar": [
+        "casa foreira à Mitra"
+      ],
+      "data": [
+        "1539"
+      ],
+      "entidade": [
+        "Padre João Rodrigues"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "875f070b-2cee-4904-9dee-806ccde7e26e",
+  "numero": 2,
+  "enfiteuta": "Padre Pedro Francisco",
+  "foro": "100 reis e 2 galinhas",
+  "rua": "r26",
+  "desc": [
+    {
+      "_id": "a468c51f-4ab8-4c42-ad17-67055a04d18d",
+      "text": "A casa nº2 confronta, do poente, com o rossio que está no princípio da Rua da Cruz da Pedra.",
+      "lugar": [
+        "Rua da Cruz da Pedra",
+        "rossio"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "4e713654-2ca6-404f-902b-c7ebff7fa991",
+  "numero": 4,
+  "enfiteuta": "Gregório José Braga, alfaiate",
+  "foro": "250 reis e 1 galinha",
+  "rua": "r26",
+  "desc": [
+    {
+      "_id": "4099606b-e265-4748-8828-147fc1a8f055",
+      "text": "Foi construída, depois de 1555, em pertenças do número 2. Confronta, do nascente, com casa foreira à Câmara",
+      "lugar": [
+        "Câmara"
+      ],
+      "data": [
+        "1555"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "c417b2e6-105d-4091-aa57-14683aea4614",
+  "numero": 5,
+  "enfiteuta": "",
+  "foro": "5 reis(de censo)",
+  "rua": "r26",
+  "desc": [
+    {
+      "_id": "80482ff0-af0d-4362-8308-82851ed7a1e6",
+      "text": "Os livros das pensões referem que esta casa foi de João Gomes, genro do Mestre Gonçalo, «e que há muitos anos se não paga este censo».",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Mestre Gonçalo",
+        "João Gomes"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "4f97d0af-50fb-4187-8eb6-0fa561cd667b",
+  "numero": 6,
+  "enfiteuta": "",
+  "foro": "5 reis(de censo)",
+  "rua": "r26",
+  "desc": [
+    {
+      "_id": "6d458a2c-fa6d-43d3-8e4a-32bc069bc439",
+      "text": "O censo é pago por Mónica Veloso de Freitas, viúva.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Mónica Veloso de Freitas"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "14f7352a-3c0e-450c-b14a-c35070e52b90",
+  "numero": 7,
+  "enfiteuta": "",
+  "foro": "5 reis(de censo)",
+  "rua": "r26",
+  "desc": [
+    {
+      "_id": "980c45fb-8df4-4326-84d0-5b660a861564",
+      "text": "Pertenceu Pedro Martins. O censo é pago Gaspar de Medeiros.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Pedro Martins",
+        "Gaspar de Medeiros"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "393ce7d5-13ea-4f2a-aa7d-a73cb798f55b",
+  "numero": 8,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r26",
+  "desc": [
+    {
+      "_id": "13c45c3b-1c83-4872-aeb5-32b065b34a46",
+      "text": "Pertence ao nº1 da rua em frente do Açogue para onde tem frontaria e serventia principais.",
+      "lugar": [
+        "Açogue"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3c80f770-0d7c-4ef3-a95b-864cc7d0f67c",
+  "numero": 9,
+  "enfiteuta": "D.António de Noronha de Mesquita Soares",
+  "foro": "",
+  "rua": "r26",
+  "desc": [
+    {
+      "_id": "e21b54a9-be6a-401d-ad2b-6632525e441e",
+      "text": "A casa e parte do quintal são foreiras ao Hospital de S.Marcos. Pela outra parte do quintal paga-se, de foro, 451 reis ao nº1 do Campo de S.Sebastião. Encontra-se subemprazada aos herdeiros do Padre António Velho Maciel, beneficiado.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Padre António Velho Maciel",
+        "Hospital de S.Marcos"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "dee65333-1339-4439-a05a-cba170975121",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r30",
+  "desc": [
+    {
+      "_id": "70876d14-d732-48cc-939a-b255bd0ff376",
+      "text": "Pertencem ao n.º 38 da Rua do Arrabalde da Cruz da Pedra, para onde tem a frontaria e serventia pricnipais.",
+      "lugar": [
+        "Rua do Arrabalde da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "6bb25c46-52a6-4f62-a1da-d3b876690ac9",
+  "numero": 3,
+  "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro.",
+  "foro": "",
+  "rua": "r30",
+  "desc": [
+    {
+      "_id": "4fbbfbe8-2f85-46e5-bab4-5c120f8b1a73",
+      "text": "Pagam foro ao n.º 20 da Rua do Arrabalde da Cruz de Pedra. Os n.º4 a 8 foram integrados na escritura do prazo n.º 3.",
+      "lugar": [
+        "Rua do Arrabalde da Cruz de Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "15e0d298-3568-4151-a7d1-7b9d0ce026e5",
+  "numero": 9,
+  "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro.",
+  "foro": "",
+  "rua": "r30",
+  "desc": [
+    {
+      "_id": "60211467-75a8-4d9f-ae7a-c9fbce1c03e9",
+      "text": "Pertence ao n.º 36 da Rua do Arrabalde da Cruz da Pedra, a qual, está integrada no prazo da casa n.º 20, da mesma rua.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "c2f615d1-9de3-4335-9331-fbeeb17a63e4",
+  "numero": 1,
+  "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro.",
+  "foro": "",
+  "rua": "r30",
+  "desc": [
+    {
+      "_id": "a707b90e-4b09-44a5-8e02-ba06b89b4eeb",
+      "text": "Pagam foro ao n.º 20 da Rua do Arrabalde da Cruz de Pedra.",
+      "lugar": [
+        "Rua do Arrabalde da Cruz de Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b7eaabe4-48a1-48f8-96d1-309a277ab71a",
+  "numero": 11,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r30",
+  "desc": [
+    {
+      "_id": "30887814-f595-45cd-997f-3888be6e6682",
+      "text": "Portal de serventia da casa n.º 33 do Arrabalde da Cruz de Pedra.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "214245cc-5564-4287-afbe-0f3064ea37b4",
+  "numero": 12,
+  "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro.",
+  "foro": "",
+  "rua": "r30",
+  "desc": [
+    {
+      "_id": "a9eb5c92-fea0-465d-8f34-c7f3e0f3b494",
+      "text": "Pagam foro ao n.º 20 da Rua do Arrabalde da Cruz de Pedra.",
+      "lugar": [
+        "Rua do Arrabalde da Cruz de Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "e1d1c383-8e1e-43ee-a053-5cd8ef9f78fb",
+  "numero": 16,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r30",
+  "desc": [
+    {
+      "_id": "f058d716-4b54-49b9-b170-114415c30f2f",
+      "text": "Casa e portal de serventia do n.º 28 da Rua do Arrabalde da Cruz de Pedra",
+      "lugar": [
+        "Rua do Arrabalde da Cruz de Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "52345a35-9555-40d9-99eb-1310f871573e",
+  "numero": 19,
+  "enfiteuta": "Os herdeiros de Bento Vaz Perreira, da freguesia de S. Martinho de Dume, casado com Maria Josefa de Macedo e Castro.",
+  "foro": "",
+  "rua": "r30",
+  "desc": [
+    {
+      "_id": "1595888d-1a3b-4b64-b661-60a53091afc4",
+      "text": "Pagam foro ao n.º 20 da Rua do Arrabalde da Cruz de Pedra.",
+      "lugar": [
+        "Rua do Arrabalde da Cruz de Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "7bb32710-b0c4-43c9-bc4b-d035f1378470",
+  "numero": 20,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r30",
+  "desc": [
+    {
+      "_id": "cc8e4a88-baa2-4469-b0c5-144037ed936c",
+      "text": "Portal de serventia da casa n.º 20 do Arrabalde da Cruz de Pedra. Confronta, do nascente, com casa pertencente à propriedade, denominada, «O Bispo».",
+      "lugar": [
+        "Rua do Arrabalde da Cruz de Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "d3a560ed-af26-440c-bacd-2462607930e2",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r31",
+  "desc": [
+    {
+      "_id": "558145ab-f0b2-4c44-ac07-3de254899b1d",
+      "text": "Pertencem ao nº38 da Rua do Arrabalde da Cruz da Pedra, para onde tem frontaria e serventia principais.",
+      "lugar": [
+        "Rua do Arrabalde da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "d2cfd399-f8ec-4bc3-832f-1e922b48f737",
+  "numero": 3,
+  "enfiteuta": "Vid. casa nº20 da Rua do Arrabalde da Cruz da Pedra(rua nº27)",
+  "foro": "",
+  "rua": "r31",
+  "desc": [
+    {
+      "_id": "f946ae9b-91b9-4034-8bc6-0f834ac5bca5",
+      "text": "Pagam foro ao nº20 da Rua do Arrabalde da Cruz da Pedra. Os nº 4 a 8 foram integrados na escritura do prazo nº3.",
+      "lugar": [
+        "Rua do Arrabalde da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "f5f89bd2-9b9f-4a95-9df4-772706979658",
+  "numero": 9,
+  "enfiteuta": "Vid. casa nº36 da Rua do Arrabalde da Cruz da Pedra(rua nº27)",
+  "foro": "",
+  "rua": "r31",
+  "desc": [
+    {
+      "_id": "2d3ca52c-09c8-4019-95c4-0907851fb32a",
+      "text": "Pertence ao nº36 da Rua do Arrabalde da Cruz da Pedra, a qual está integrada no prazo da casa nº20, da mesma rua.",
+      "lugar": [
+        "Rua do Arrabalde da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0d5a8cb6-49ff-4a31-a94e-da060f717447",
+  "numero": 10,
+  "enfiteuta": "Vid. casa nº20 da Rua do Arrabalde da Cruz da Pedra(rua nº27)",
+  "foro": "",
+  "rua": "r31",
+  "desc": [
+    {
+      "_id": "e90cf827-be6a-47fe-9afb-fc92d7bcee60",
+      "text": "Paga foro ao nº20 da Rua do Arrabalde da Cruz da Pedra.",
+      "lugar": [
+        "Rua do Arrabalde da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "2e023253-138b-4189-a18b-64dd86233821",
+  "numero": 11,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r31",
+  "desc": [
+    {
+      "_id": "85157d0c-a833-4d0b-91b2-469af81461b1",
+      "text": "Portal de serventia da casa nº33 do Arrabalde da Cruz da Pedra.",
+      "lugar": [
+        "Arrabalde da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "39c8ee97-0dee-4c34-8c5d-e5faa762c5a8",
+  "numero": 12,
+  "enfiteuta": "Vid. casa nº20 da Rua do Arrabalde da Cruz da Pedra(rua nº27)",
+  "foro": "",
+  "rua": "r31",
+  "desc": [
+    {
+      "_id": "dcd44bfa-0aa7-4eb7-a042-e0c954703694",
+      "text": "Casas que pagam foro ao nº20 da Rua do Arrabalde da Cruz da Pedra",
+      "lugar": [
+        "Rua do Arrabalde da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "5d517708-7289-4fb5-8ab1-241e6466b6f7",
+  "numero": 16,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r31",
+  "desc": [
+    {
+      "_id": "06331ee2-f219-4065-a971-c890bab1a2e9",
+      "text": "Casa e portal de serventia do nº28 da Rua do Arrabalde da Cruz da Pedra",
+      "lugar": [
+        "Rua do Arrabalde da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3f31997f-0e59-41da-b774-fad0e789d635",
+  "numero": 19,
+  "enfiteuta": "Vid. casa nº20 da Rua do Arrabalde da Cruz da Pedra(rua nº27)",
+  "foro": "",
+  "rua": "r31",
+  "desc": [
+    {
+      "_id": "fd4b639b-3079-4416-8fba-23cbdb880688",
+      "text": "Corresponde a três casas que pagam foro ao nº 20 da Rua da Cruz da Pedra.",
+      "lugar": [
+        "Rua da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "6929c071-6571-458f-82b6-920d199b02b3",
+  "numero": 22,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r31",
+  "desc": [
+    {
+      "_id": "fc0d99f4-4b83-4cb2-8ee9-fd1adf9a1134",
+      "text": "Portal de serventia do campo da casa nº 20 da Rua do Arrabalde da Cruz da Pedra Confronta, do nascente, com a casa pertencente à propriedade, denominada, \"O Bispo\".",
+      "lugar": [
+        "Rua do Arrabalde da Cruz da Pedra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "e47b7846-2d2f-47ae-876e-0b7b4b41be8d",
+  "numero": 1,
+  "enfiteuta": "António de Araújo Ferreira, alfaiate",
+  "foro": "70 reis",
+  "rua": "r35",
+  "desc": [
+    {
+      "_id": "65b40e49-6935-4035-927d-81413bec89b7",
+      "text": "Confronta, do norte, com casa foreira à capela de Sta. Luzia, ou morgado de Besteiros, e, do sul, com o nº 2 (Convento dos Remédios). Foi construída, juntamente com os nº 2, 3 e 4, depois do ano de 1515, no local onde existia uma vinha.",
+      "lugar": [
+        "capela de Sta. Luzia",
+        "morgado de Besteiros",
+        "Convento dos Remédios"
+      ],
+      "data": [
+        "1515"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "4b64ad50-fab6-417e-962d-f23a31fbc09a",
+  "numero": 2,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r35",
+  "desc": [
+    {
+      "_id": "126232fe-fff8-4e18-b212-def926d901a6",
+      "text": "Através de um contrato de escambo, realizado no ano de 1544, o cabido cedeu a D. André de Torquemada, Bispo de Dume, parte dos terrenos das casas existentes neste local, a fim de se erirgir o convento de Nossa Senhora dos Remédios. A portaria deste convento foi, assim, construída em parte daqueles quintais.",
+      "lugar": [
+        "convento de Nossa Senhora dos Remédios"
+      ],
+      "data": [
+        "1544"
+      ],
+      "entidade": [
+        "D. André de Torquemada"
+      ]
+    },
+    {
+      "_id": "affbb7d5-8183-48ac-8fe2-fa44b2f3689f",
+      "text": "Posteriormente, no ano de c, o cabido escambou as casas, que foram demolidas, sendo o terreno integrado no referido convento. Todas as casas estavam incorporadas no nº 1, da qual se separaram através de escrituras de prazo realizadas em 1630, 1642 e 1714, referentes às casas nº 4, 3 e 2, respectivamente.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1630",
+        "1642",
+        "1714",
+        "1734"
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "46f757db-9e5e-4d2c-bd86-e75e7287432b",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "1365c9a3-fd1e-452e-be5e-46aa04d0d518",
+      "text": "Pertence ao n.° 11 da Rua de S. Gonçalo, para onde tem frontaria e serventia principais.",
+      "lugar": [
+        "Rua de S. Gonçalo"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "962455e7-f3dc-480b-8d5f-abadd1653cbf",
+  "numero": 2,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "5d23697b-9171-4c39-9975-9311f8d5a673",
+      "text": "Paga foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "861ba950-76b2-4617-a5b7-a5a67e2f8a95",
+  "numero": 3,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "c289922a-7c6b-489c-8365-993e19f578cc",
+      "text": "Francisco do Vale, da freguesia de S. Paio de Pousada, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de 1740",
+      "lugar": [
+        "S. Paio de Pousada"
+      ],
+      "data": [
+        "1740"
+      ],
+      "entidade": [
+        "Francisco do Vale"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "799ace3e-54e8-439c-a0cb-36f12a49e763",
+  "numero": 4,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "535fde20-1d96-44eb-bc6f-0e191ba58235",
+      "text": "Paga foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b3851e9a-6adc-4cf0-9ac5-fe6a2be27c55",
+  "numero": 6,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "f4c0a248-8c10-478e-8037-8d87f7b3cbed",
+      "text": "«Chãos de casa» do prazo do casal dos Chãos ou Quinteiro. O chão n.° 8 confronta, do poente, com o chão n.° 26 da Rua Sto. André",
+      "lugar": [
+        "Rua Sto. André"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "88fa976b-4abf-4f62-88cf-a4f78687196e",
+  "numero": 9,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "921e34dc-764e-4c5b-adcd-1e9c82c9717c",
+      "text": "Paga foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Confronta, do sul, com a casa n.° 25 da Rua de Sto. André",
+      "lugar": [
+        "Rua de Sto. André"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ed70ebce-c34f-4943-a983-b2b36b74bdda",
+  "numero": 10,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "b10659b2-0c60-4e9e-bd31-db2200670378",
+      "text": "«Chãos de casa» do prazo do casal dos Chãos ou Quinteiro. O chão n.° 16 confronta, do norte, com a casa n.° 1 da Rua das Oliveiras",
+      "lugar": [
+        "Rua das Oliveiras"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "448f4b50-1391-4d0a-bd00-525f5168f071",
+  "numero": 17,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "7198b175-d1eb-483c-9f16-7020c6855b0a",
+      "text": "Martinho de Araújo, pedreiro, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. As casas foram construídas depois de 1725. O n.° 17. confronta, do poente, com a casa n.° 36 da Rua das Oliveiras",
+      "lugar": [
+        "Rua das Oliveiras"
+      ],
+      "data": [
+        "1725"
+      ],
+      "entidade": [
+        "Martinho de Araújo"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "420182bb-f9aa-4fab-a0b1-190008db4ac8",
+  "numero": 19,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "809657d3-3016-47bd-baa6-159276332492",
+      "text": "«Chãos de casa» do prazo do casal dos Chãos ou Quinteiro. O chão n.° 26 confronta, do poente, com o chão n.° 1 da Rua de N. Sra. de Guadalupe",
+      "lugar": [
+        "Rua de N. Sra. de Guadalupe"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0cf83f63-ec50-4064-a891-95aaccd7a493",
+  "numero": 27,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "fb69e5e3-7091-47ac-ad18-88cd8c6d673d",
+      "text": "«Chãos de casa» do prazo do casal dos Chãos ou Quinteiro. O chão n.° 27 confronta, do norte, con o chão n.° 35 da Rua de N. Sra. de Guadalupe",
+      "lugar": [
+        "Rua de N. Sra. de Guadalupe"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ee622a0c-4078-45fa-bc24-56d88369c139",
+  "numero": 33,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "5a3c8c86-f5d3-4cf9-a035-4db655e509fa",
+      "text": "Mariana Cardoso, da freguesia de Nogueira, paga 2000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Esta casa foi construída antes do ano de 1735",
+      "lugar": [
+        "Nogueira"
+      ],
+      "data": [
+        "1735"
+      ],
+      "entidade": [
+        "Mariana Cardoso"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b85356d5-79d3-4da9-b912-13278649e67e",
+  "numero": 34,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r48",
+  "desc": [
+    {
+      "_id": "187ba119-388f-4d31-9a54-c7702bf491a6",
+      "text": "«Chãos de casa» do prazo do casal dos Chãos ou Quinteiro. O chão n.° 36 confronta, do sul, com o chão n.° 12 da Rua de S. Gonçalo.",
+      "lugar": [
+        "Rua de S. Gonçalo"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ae80b846-3b69-4c18-a1ab-3a8dd8798931",
+  "numero": 1,
+  "enfiteuta": "D.Agostinha de Barros Gavião, enfiteuta principal do casal dos Chãos ou Quinteiro, sito na freguesia de S.José de S.Lázaro",
+  "foro": "",
+  "rua": "r41",
+  "desc": [
+    {
+      "_id": "da0340e7-f7ff-4011-a6f4-04ee42230879",
+      "text": "Uma parte do quintal desta casa é pertença do prazo do casal dos Chãos ou Quinteiro, sito na freguesia de S.José de S.Lázaro, à face do qual está subemprazado.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "f089d41d-ca5a-4a2a-8a71-d63c8ab184d9",
+  "numero": 3,
+  "enfiteuta": "D.Agostinha de Barros Gavião, enfiteuta principal do casal dos Chãos ou Quinteiro, sito na freguesia de S.José de S.Lázaro",
+  "foro": "",
+  "rua": "r41",
+  "desc": [
+    {
+      "_id": "d0d832c7-d4bf-4941-812e-94691ec2536a",
+      "text": "Uma parte do quintal desta casa é pertença do prazo do casal dos Chãos ou Quinteiro, sito na freguesia de S.José de S.Lázaro, à face do qual está subemprazado.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "f33bb5c8-18df-45e7-af2f-5dc19bff4faf",
+      "text": "Confronta, do poente, com casa foreira ao Convento de Vilar de Frades",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Convento de Vilar de Frades"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3e14af29-3fce-4139-bbfb-cc632d1c54c4",
+  "numero": 6,
+  "enfiteuta": "Manuel Fernandes Lima",
+  "foro": "",
+  "rua": "r41",
+  "desc": [
+    {
+      "_id": "c35e9d8e-93f9-46c6-b7cd-33151b52b9bd",
+      "text": "Vincente Francisco, casado com Francisca Ferreira, paga, de pensões ou foro, 10 reis ao n.º3 da Rua das Águas, por um pedaço de terra que se separou do campo da Rua das Águas ou do Caminho Novo",
+      "lugar": [
+        "Rua das Águas",
+        "campo da Rua das Águas",
+        "Caminho Novo"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Vincente Francisco",
+        "Francisca Ferreira"
+      ]
+    },
+    {
+      "_id": "77118651-630e-41b4-b082-e07048f63d79",
+      "text": "A casa e a outra parte do quintal não são foreiras ao cabido",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "cabido"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "414f86eb-54d0-48db-bc6d-e0ab3186479e",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r47",
+  "desc": [
+    {
+      "_id": "bcd6188c-cec8-4f51-80e8-c9350a9d2f96",
+      "text": "Pertence à casa n.° 14 da Rua de Sto. André, para onde tem a frontaria e serventia principais.",
+      "lugar": [
+        "Rua de Sto. André"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "f6cd7d19-a7b0-4db8-b259-0c2873a9eabd",
+  "numero": 2,
+  "enfiteuta": ">D. Agostinha Maria de Barros, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r47",
+  "desc": [
+    {
+      "_id": "21b891a2-f020-4b98-b3fe-3b2a7e2fe0cc",
+      "text": "Isabel Maria de Jesus paga 3240 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Encontram-se unidas desde 1743",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1743"
+      ],
+      "entidade": [
+        "Isabel Maria de Jesus"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "61aaba70-da29-4e39-9566-b65b025bee42",
+  "numero": 5,
+  "enfiteuta": "D. Agostinha Maria de Barros, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r47",
+  "desc": [
+    {
+      "_id": "5f052069-4e31-4d3c-8903-6557e1fa27ce",
+      "text": "Antónia Francisca paga 1325 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro. Foi construída antes de 1745",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1745"
+      ],
+      "entidade": [
+        "Antónia Francisca"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "360540ef-7606-4221-88eb-0cc84a35a38a",
+  "numero": 6,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r47",
+  "desc": [
+    {
+      "_id": "8ea08b03-313f-4933-9ef5-0f7fc57223fe",
+      "text": "Pertence ao n.° 86 da Rua dos Chãos de Cima",
+      "lugar": [
+        "Rua dos Chãos de Cima"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0b5513c8-c7fa-4c8d-a332-8dc8e92ff42e",
+  "numero": 8,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r47",
+  "desc": [
+    {
+      "_id": "a8bfc37b-f86c-4e80-9350-4a4746453451",
+      "text": "Porta de serventia do quintal do n.° 85 da Rua dos Chãos de Cima",
+      "lugar": [
+        "Rua dos Chãos de Cima"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "74b20bc0-46e1-4ccc-96dd-ce26128cb4ec",
+  "numero": 9,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r47",
+  "desc": [
+    {
+      "_id": "57a4a894-0ee4-4c7d-ab7e-c86f6f687a3d",
+      "text": "Porta de serventia do quintal do n.° 84 da Rua dos Chãos de Cima. ",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "66000ab5-6b31-46cd-a20e-26c096a3225b",
+  "numero": 10,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r47",
+  "desc": [
+    {
+      "_id": "06040da6-29a5-4858-9df8-695bb88b28b4",
+      "text": "Porta de serventia do quintal do n.° 81 da Rua dos Chãos de Cima",
+      "lugar": [
+        "Rua dos Chãos de Cima"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3ebdd6d1-eca0-44a3-a900-582f241c0ea0",
+  "numero": 11,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r47",
+  "desc": [
+    {
+      "_id": "3266add7-ad36-4afa-b539-9eef29c94484",
+      "text": "Porta de serventia do quintal do n.° 80 da Rua dos Chãos de Cima",
+      "lugar": [
+        "Rua dos Chãos de Cima"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "90483979-8711-450f-89bd-96b5bfe0eece",
+  "numero": 12,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r47",
+  "desc": [
+    {
+      "_id": "2c737702-0359-4af7-a01f-8bd210677869",
+      "text": "Porta de serventia dos quintais dos n.° 77 e 78 da Rua dos Chãos de Cima",
+      "lugar": [
+        "Rua dos Chãos de Cima"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "cee80d6e-3174-460e-a837-af3294d7ba98",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r40",
+  "desc": [
+    {
+      "_id": "d063fd22-aca6-4f0a-a511-abd5e893a45c",
+      "text": "Pertence ao nº 46 da Rua da Ponte de Guimarães, para onde tem a frontaria principal.",
+      "lugar": [
+        "Rua da Ponte de Guimarães"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "45027712-8509-40ae-afd2-9167db5cd092",
+  "numero": 2,
+  "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+  "foro": "",
+  "rua": "r40",
+  "desc": [
+    {
+      "_id": "cdb480e1-bae7-497a-8dae-d49fd17ab5b5",
+      "text": "Os herdeiros de Margarida Fernandes pagam 100 reis ao n° 17.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "herdeiros de Margarida Fernandes"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "e7563056-a599-46a8-9c88-56f36dfa6a93",
+  "numero": 3,
+  "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+  "foro": "",
+  "rua": "r40",
+  "desc": [
+    {
+      "_id": "be9117e4-246f-4638-af1c-f0adbe01ac2e",
+      "text": "Pagam foro ao nº 17. A casa n° 3 confronta, do nascente, com terra do prazo da quinta e moinhos da Serra",
+      "lugar": [
+        "quinta e moinhos da Serra"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ea6791eb-5e59-4988-9ae9-aa5ab4a5f0d8",
+  "numero": 5,
+  "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+  "foro": "",
+  "rua": "r40",
+  "desc": [
+    {
+      "_id": "622d5983-638b-42b5-a369-76c89721e4f0",
+      "text": "De 5 a 16 e 18 a 33 pagan foro ao nº17",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ec0728e4-39f8-4b46-99ef-5cdfd2037ce5",
+  "numero": 17,
+  "enfiteuta": "Pedro da Cunha Sottomayor, Alcaide Mor de Braga",
+  "foro": "960 reis, 10 alqueires de trigo, 25 de pão meado e 4 galinhas",
+  "rua": "r40",
+  "desc": [
+    {
+      "_id": "17368fba-b6aa-44d1-90be-1b1816ed9045",
+      "text": "Esta casa é cabeça do prazo da quintã e moinhos da Serra e da Ribeira. O enfiteuta possuia esta quintã que fora emprazada a seu ' familiar, o Padre Fernão Anes, no ano de 1532",
+      "lugar": [
+        "quintã e moinhos da Serra e da Ribeira"
+      ],
+      "data": [
+        "1532"
+      ],
+      "entidade": [
+        "Padre Fernão Anes"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "0fa88c4e-af89-4c86-847b-417f90ed2f12",
+  "numero": 1,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro",
+  "foro": "",
+  "rua": "r49",
+  "desc": [
+    {
+      "_id": "5e948500-2108-47b2-afc4-a0f36e845052",
+      "text": "Pertence à casa n.º 5 do campo de Sta. Ana, para onde tem a frontaria e serventia principais",
+      "lugar": [
+        "campo de Sta. Ana"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "14974745-00fd-4d43-93be-6e65f461ea55",
+  "numero": 2,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r49",
+  "desc": [
+    {
+      "_id": "c658a8e6-4a71-4978-aa73-d89994fa21b9",
+      "text": "«Chão de casa» do prazo do casal dos Chãos ou Quinteiro",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "8589d783-c6ea-4fa4-9e31-27597a6b5b7b",
+  "numero": 3,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r49",
+  "desc": [
+    {
+      "_id": "c96c6809-4afd-48d9-af10-9801a3cff4c8",
+      "text": "Paga foro ao enfiteuta do prazo do casal dos Chãos ou Quinteiro",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "678c5926-6671-4df3-aad5-3280a69ce1ac",
+  "numero": 4,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r49",
+  "desc": [
+    {
+      "_id": "52a31468-9dee-444c-90ae-e076971fd8f0",
+      "text": "O Padre Inácio Palhares paga 2400 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro, conforme o subemprazamento de 1725",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1725"
+      ],
+      "entidade": [
+        "Padre Inácio Palhares",
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "62da848e-9b91-410c-8325-efd7135ad088",
+  "numero": 5,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro",
+  "foro": "",
+  "rua": "r49",
+  "desc": [
+    {
+      "_id": "88ed8a52-64a3-4ff2-a31f-53fce301e9b6",
+      "text": "António Vieira da Costa, da freguesia de Adaufe, casado com Helena Francisca da Cruz, paga 1200 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro, conforme o subemprazamento de <data>1725",
+      "lugar": [
+        "Adaufe"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "casal dos Chãos ou Quinteiro",
+        "António Vieira da Costa",
+        "Helena Francisca da Cruz"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ca49b54c-0417-4c0c-aedb-4855f32be147",
+  "numero": 6,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro",
+  "foro": "",
+  "rua": "r49",
+  "desc": [
+    {
+      "_id": "ecac916a-384a-4d8d-97f5-38c4808ad887",
+      "text": "O Padre Jerónimo Vieira paga 1200 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro, conforme o subemprazamento de <data>1725",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Padre Jerónimo Vieira",
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "cb202ae4-e2c2-4985-8b99-eb1ff3568040",
+  "numero": 7,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro",
+  "foro": "",
+  "rua": "r49",
+  "desc": [
+    {
+      "_id": "41606a20-05c1-4819-897e-5015e88c2f6d",
+      "text": "João Vieira, sombreireiro, casado com Teresa de Sá, paga 1200 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro, conforme o subemprazamento de 1726",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1726"
+      ],
+      "entidade": [
+        "João Vieira",
+        "Teresa de Sá",
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3766621e-a0a2-4a3f-8b26-287abbefb742",
+  "numero": 37,
+  "enfiteuta": "*Vid.casa nº33 da Rua das Águas (rua 36)",
+  "foro": "",
+  "rua": "r60",
+  "desc": [
+    {
+      "_id": "d01121b1-1d80-40ac-9e21-477f5450fce8",
+      "text": "A numeração que lhe é atribuída pelos índices dá seguimento à da rua das Águas",
+      "lugar": [
+        "rua das Águas"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "7daf6264-4456-4b8f-aa09-86afd0cc7044",
+      "text": "A casa nº37 confronta, de poente, com o nº36 da rua das Águas",
+      "lugar": [
+        "rua das Águas"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "f7d1960a-da9c-4e7f-a933-40127998a891",
+  "numero": 1,
+  "enfiteuta": "Sebastião de Faria Gusmão, enfiteuta principal da Quinta da Cónega.",
+  "foro": "",
+  "rua": "r59",
+  "desc": [
+    {
+      "_id": "1989b891-552f-4610-9783-0bb4f4a60b86",
+      "text": "Os herdeiros do Lic. Domingos Correia de Abreu pagam 150 reis e 2 alqueires e meio de trigo ao enfiteuta do prazo da Quinta da Cónega",
+      "lugar": [
+        "Quinta da Cónega"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Domingos Correia de Abreu"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "254c9e8d-ccb9-4db7-b3eb-c4e36bc761a8",
+  "numero": 2,
+  "enfiteuta": "Sebastião de Faria Gusmão, enfiteuta principal da Quinta da Cónega.",
+  "foro": "",
+  "rua": "r59",
+  "desc": [
+    {
+      "_id": "885da8d8-3451-4c98-8d56-b9386711e5da",
+      "text": "Pertence ao nº1 da Rua da Cónega, para onde tem, também, frontaria.",
+      "lugar": [
+        "Rua da Cónega"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "fcb29f1b-2f82-4e1f-a0bd-97afc73ee51a",
+      "text": "A fachada situa-se no Campo da Vinha",
+      "lugar": [
+        "Campo da Vinha"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "b763ba39-106f-4f02-822d-0502dfde3fe4",
+  "numero": 1,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r57",
+  "desc": [
+    {
+      "_id": "17db8453-3f7f-40f0-9aef-4a64f6529c15",
+      "text": "Campo do prazo da Quinta da Cónega(freguesia de S.Pedro de Maximinos)",
+      "lugar": [
+        "Quinta da Cónega(freguesia de S.Pedro de Maximinos)"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "bcec00a5-fc8e-4106-b2c8-3a1c23dd3ae2",
+  "numero": 2,
+  "enfiteuta": "Sebastião de Faria Gusmão, enfiteuta principa da Quinta da Cónega.",
+  "foro": "",
+  "rua": "r57",
+  "desc": [
+    {
+      "_id": "10f0994b-942d-43ba-9f19-3decd8567cdb",
+      "text": "Pertencem à Quinta da Cónega, a cujo enfiteuta se paga foro. O nº17 confronta, do poente, com o caminho que vai para a Quinta do Real",
+      "lugar": [
+        "Quinta da Cónega",
+        "Quinta do Real"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    },
+    {
+      "_id": "21bfe5db-2586-445b-a4d5-a34f7ad4b463",
+      "text": "O nº18, confronta, do poente, com o caminho que vai junto da Curutela para a cangosta do Pópulo",
+      "lugar": [
+        "Curutela",
+        "Pópulo"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "bdc5407e-cc17-45fb-ae2d-6dafce32ff63",
+  "numero": 21,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r57",
+  "desc": [
+    {
+      "_id": "965c4db7-edd7-4483-b877-16e2ee88501c",
+      "text": "Corresponde a um campo do prazo da Quinta da Cónega. Confronta, do nascente, com a casa nº22 da Rua da Cónega",
+      "lugar": [
+        "Quinta da Cónega",
+        "Rua da Cónega"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "d9288955-8bca-4863-b677-7b8a0f10c48f",
+  "numero": 1,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r50",
+  "desc": [
+    {
+      "_id": "064dce5e-c32d-468a-ab47-c3e01a55e1f8",
+      "text": "«Chãos de casas» do prazo do casal dos Chãos ou Quinteiro. O chão n.º 1 confronta, do poente, com o chão n.° 26 da Praça do Gavião",
+      "lugar": [
+        "Praça do Gavião"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ddd32568-3c0c-43a6-b484-3f029ad5723b",
+  "numero": 3,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r50",
+  "desc": [
+    {
+      "_id": "3f756d07-ee05-4034-8c9a-b8ab63ad8c50",
+      "text": "Pertencem ao casal dos Chãos ou Quinteiro. Nos livros dos prazos do cabido não se encontram escrituras de subemprazamento.",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "casal dos Chãos ou Quinteiro",
+        "cabido"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "81ad062a-7053-4483-8631-04b22b3b6996",
+  "numero": 7,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r50",
+  "desc": [
+    {
+      "_id": "8b9e5d18-0d13-493e-b930-f51ed837f66b",
+      "text": "Ursula Vieira, e suas irmãs, Vitoriana Josefa e Joana Antónia, pagam 1200 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro, à face do qual foi subemprazada em <data>1745",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1745"
+      ],
+      "entidade": [
+        "Ursula Vieira",
+        "Vitoriana Josefa",
+        "Joana Antónia",
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "6df38eee-bab5-4b58-a602-70fbfac63508",
+  "numero": 1,
+  "enfiteuta": "D. Agostinho Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r51",
+  "desc": [
+    {
+      "_id": "fea8565e-a83c-44bb-998c-c48035e7f986",
+      "text": "Custódio Dias, vendeiro, casado com Francisca Teresa, paga 1000 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro, conforme o subemprazamento de 1739",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1739"
+      ],
+      "entidade": [
+        "Custódio Dias",
+        "Francisca Teresa",
+        "casal dos Chãos ou Quinteiro"
+      ]
+    },
+    {
+      "_id": "e3ea0ced-86dd-4bcf-920f-7b49de76a47d",
+      "text": "Confronta, do sul, com o chão n.° 16 da Praça do Gavião",
+      "lugar": [
+        "Praça do Gavião"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3e0b4e79-040d-45f2-9b29-8c548d5cd2e0",
+  "numero": 2,
+  "enfiteuta": "D. Agostinho Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r51",
+  "desc": [
+    {
+      "_id": "91d755e1-c730-4150-b992-6742c7b4d5e1",
+      "text": "Marcos Lopes, branqueador, casado com Luísa Mendes, paga 1200 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro, conforme o subemprazamento de 1725",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1725"
+      ],
+      "entidade": [
+        "Marcos Lopes",
+        "Luísa Mendes",
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "72fc2708-d8af-46cd-a95e-f400d4d8fe96",
+  "numero": 4,
+  "enfiteuta": "D. Agostinho Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r51",
+  "desc": [
+    {
+      "_id": "f901a701-7671-4ecd-b3a8-31cf192ec914",
+      "text": "João da Costa, viúvo, alfaiate, paga 1200 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro, conforme o subemprazamento de 1726",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1726"
+      ],
+      "entidade": [
+        "João da Costa",
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "ef32c6c4-69fe-4748-83d6-9c28224985de",
+  "numero": 5,
+  "enfiteuta": "D. Agostinho Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r51",
+  "desc": [
+    {
+      "_id": "0ca9636d-6eec-48e9-b9fb-c29a0344ac41",
+      "text": "João Dias, abridor de guarnição de espada, casado com Mariana Carvalho, paga 1200 reis ao enfiteuta do prazo do casal dos Chãos ou Quinteiro, conforme o subemprazamento de 1725",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        "1725"
+      ],
+      "entidade": [
+        "Mariana Carvalho",
+        "João Dias",
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "35c2ffb3-fef3-4f31-b3ab-f5d8a3d24b6f",
+  "numero": 1,
+  "enfiteuta": "Vid. casa n.º9 da rua de N. Sr.ª de Guadalupe.",
+  "foro": "",
+  "rua": "r52",
+  "desc": [
+    {
+      "_id": "004ead8d-1782-4cb0-a4dd-fb90cffc6ee3",
+      "text": "Pertence à casa n.° 17 da Rua de N. Sra. de Guadalupe, para onde tem frontaria e serventia principais.",
+      "lugar": [
+        "Rua de N. Sra. de Guadalupe"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "3f7171d9-36c1-4e7a-a663-3f87fb965079",
+  "numero": 3,
+  "enfiteuta": "Vid. casa n.º9 da rua de N. Sr.ª de Guadalupe.",
+  "foro": "",
+  "rua": "r52",
+  "desc": [
+    {
+      "_id": "31754961-d719-464a-8c11-4275576737df",
+      "text": "Silvestre de Oliveira, jornaleiro, casado com Inês Dantas, paga 2000 reis, pelo chão n.° 3 e pelos n.º 4 e 5, ao subenfiteuta da casa n.° 9 da Rua de N. Sra. de Guadalupe",
+      "lugar": [
+        "Rua de N. Sra. de Guadalupe"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Silvestre de Oliveira",
+        "Inês Dantas"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "c76f0589-471d-4c55-a66e-3acbbab60cd0",
+  "numero": 6,
+  "enfiteuta": "",
+  "foro": "",
+  "rua": "r52",
+  "desc": [
+    {
+      "_id": "d5e35a43-0c9c-4d6b-9881-072565eddcbc",
+      "text": "Portal de serventia do quintal que anda subemprazado juntamente com a casa n.° 9 da Rua N. Sra. de Guadalupe",
+      "lugar": [
+        "Rua N. Sra. de Guadalupe"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "cffb12ce-d2ae-494b-ba25-1d9ba8dbb3fd",
+  "numero": 7,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r52",
+  "desc": [
+    {
+      "_id": "ee2362f7-dcff-4ec2-9f88-b5a46924e8eb",
+      "text": "Pertencem ao casal dos Chãos ou Quinteiro, a cujo enfiteuta se paga foro. Nos livros dos prazos do cabido não se encontram escrituras se subemprazamento",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "casal dos Chãos ou Quinteiro",
+        "cabido"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "6c37234d-1ae8-4684-8b44-f0e3d8e7a304",
+  "numero": 10,
+  "enfiteuta": "D. Agostinha Maria de Barros Gavião, enfiteuta principal do prazo do casal dos Chãos ou Quinteiro.",
+  "foro": "",
+  "rua": "r52",
+  "desc": [
+    {
+      "_id": "48fd1504-d341-44e8-b231-293be6686ba7",
+      "text": "Chãos de casa do prazo do casal dos Chãos ou Quinteiro",
+      "lugar": [
+        ""
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "casal dos Chãos ou Quinteiro"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "405b6eda-d8de-41b2-ad52-31ba871c10bf",
+  "numero": 1,
+  "enfiteuta": "Isabel Maria da Silva, viúva do Dr. Santos de Araújo Alves. Dezembargador de Braga",
+  "foro": "200 reis, 18 alqueires de pão meado e 2 galinhas",
+  "rua": "r55",
+  "desc": [
+    {
+      "_id": "0681544c-6b00-43cd-8586-c415dcf8f2e3",
+      "text": "Antiga cabeça do prazo, denominado, 1.ª metade do casal do Lagarto. Pertencem a este prazo os n.ºs 1 a 35 da Rua de Infias",
+      "lugar": [
+        "casal do Lagarto",
+        "Rua de Infias"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "4d0a7188-6a4f-436c-b0b9-62105b9fd6d8",
+  "numero": 2,
+  "enfiteuta": "Vid. casa n.º1.",
+  "foro": "",
+  "rua": "r55",
+  "desc": [
+    {
+      "_id": "46692847-7834-41a2-a6fc-a8df454a5e92",
+      "text": "Antónia Soares, casada com Luís Francisco de Paiva, branqueador, paga 2000 reis ao enfiteuta do prazo da l.ª metade do casal do Lagarto",
+      "lugar": [
+        "casal do Lagarto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Antónia Soares",
+        "Luís Francisco de Paiva"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "6df8dc5c-cdb1-49be-b605-a18f9eb918fe",
+  "numero": 3,
+  "enfiteuta": "Vid. casa n.º1.",
+  "foro": "",
+  "rua": "r55",
+  "desc": [
+    {
+      "_id": "64bccba3-596b-4130-9691-874e6eca4c3f",
+      "text": "José de Freitas, cabeiro, casado com Maria da Silva, paga 2000 reis ao enfiteuta do prazo da l.ª metade do casal do Lagarto",
+      "lugar": [
+        "casal do Lagarto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "José de Freitas",
+        "Maria da Silva"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "9dc439fc-5de5-4d58-ab14-64c3322a3e22",
+  "numero": 4,
+  "enfiteuta": "Vid. casa n.º1.",
+  "foro": "",
+  "rua": "r55",
+  "desc": [
+    {
+      "_id": "d48c9999-6fdb-47d0-a710-93a50baa2e84",
+      "text": "João Dias, espingardeiro, casado com Mariana da Silva, paga 2000 reis ao enfiteuta do prazo da l.ª metade do casal do Lagarto",
+      "lugar": [
+        "casal do Lagarto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "João Dias",
+        "Mariana da Silva"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "46874fe1-6e33-4a4f-a585-8c07c4f3a0ee",
+  "numero": 5,
+  "enfiteuta": "Vid. casa n.º1.",
+  "foro": "",
+  "rua": "r55",
+  "desc": [
+    {
+      "_id": "a90c63ca-c0b5-4cd8-93e5-c184cb5be689",
+      "text": "Manuel de Araújo, pedreiro, casado com Domingas Fernandes, paga 2000 reis ao enfiteuta ao prazo da l.ª metade do casal do Lagarto",
+      "lugar": [
+        "casal do Lagarto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Manuel de Araújo",
+        "Domingas Fernandes"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "dcc74ff5-6f1d-4c26-8a27-11de13ef1cac",
+  "numero": 6,
+  "enfiteuta": "Vid. casa n.º1.",
+  "foro": "",
+  "rua": "r55",
+  "desc": [
+    {
+      "_id": "769d2b6a-1222-4c8e-a14a-e9dafb706427",
+      "text": "Manuel Pires, pedreiro, casado com Teresa Francisca, paga 2000 reis ao enfiteuta do prazo da l.ª metade do casal do Lagarto",
+      "lugar": [
+        "casal do Lagarto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        "Manuel Pires",
+        "Teresa Francisca"
+      ]
+    }
+  ],
+  "__v": 0
+},{
+  "_id": "6d306678-b230-445e-a6c2-a241351c2401",
+  "numero": 7,
+  "enfiteuta": "Vid. casa n.º1.",
+  "foro": "",
+  "rua": "r55",
+  "desc": [
+    {
+      "_id": "963e374b-973e-4b5e-bae4-74c1f12afb80",
+      "text": "A casa é foreira ao enfiteuta do prazo da l.ª metade do casal do Lagarto",
+      "lugar": [
+        "casal do Lagarto"
+      ],
+      "data": [
+        ""
+      ],
+      "entidade": [
+        ""
+      ]
+    }
+  ],
+  "__v": 0
+}]
