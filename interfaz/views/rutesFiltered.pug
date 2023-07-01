@@ -1,0 +1,105 @@
+html
+  head
+    title Streets of Braga
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='https://www.w3schools.com/w3css/4/w3.css')
+    link(rel='stylesheet', href='https://fonts.googleapis.com/css?family=Raleway')
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+    script(src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous')
+    link(rel='stylesheet', href='/stylesheets/searchbar.css')
+    script(src="/javascripts/jquery-3.6.4.min.js")
+    script(src="/javascripts/myScript.js")
+    style.
+      body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+  body.w3-light-grey.w3-content(style='max-width:1600px')
+    // !PAGE CONTENT!
+    .w3-main(style='margin-left:150px margin-right:150px')
+      // Header
+      header
+        .w3-container
+          .row
+            h1
+              b Streets of braga
+            form.flexbox(action='/rutes/search', method="POST")
+              input.input.flex(type='text' name="searchVal")
+              button.button Search
+            button.w3-button.w3-black 
+              a#formButton FILTER
+            button.w3-button.w3-black 
+              a(href="/rutes/addRute") ADD
+            form.w3-container(method="POST")
+              a#form
+                fieldset
+                  legend Metadata, Please separate by commas the array fields
+                  label Filter by:
+                  br
+                  input#data(type="radio" name="option" value="data")
+                  label(for='data') Data
+                  br
+                  input#lugar(type="radio" name="option" value="lugar")
+                  label(for='lugar') Lugar
+                  br
+                  input#entidade(type="radio" name="option" value="entidade")
+                  label(for='entidade') Entidade
+                  br
+                  label Values
+                  input.w3-input.w3-round(type="text" name="values")
+                button.w3-btn.w3-black.w3-mb-2(type="submit") Filter
+      // First Photo Grid
+      .w3-row-padding
+        if (0<list.length)
+          .w3-third.w3-container.w3-margin-bottom
+            img(src='/images/uploads/imagem/'+list[0].figura[0].imagem, style="width:100%" height="150")
+            .w3-container.w3-white
+              p
+                a(href='/rutes/'+list[0]._id)= list[0].nome
+        if (1 < list.length)
+          .w3-third.w3-container.w3-margin-bottom
+            img(src='/images/uploads/imagem/'+list[1].figura[0].imagem,  style="width:100%" height="150")
+            .w3-container.w3-white
+              p
+                a(href='/rutes/'+list[1]._id)= list[1].nome
+        if (2< list.length)
+          .w3-third.w3-container
+            img(src='/images/uploads/imagem/'+list[2].figura[0].imagem,  style="width:100%" height="150")
+            .w3-container.w3-white
+              p
+                a(href='/rutes/'+list[2]._id)= list[2].nome
+      // Second Photo Grid
+      .w3-row-padding
+        if (3< list.length)
+          .w3-third.w3-container
+            img(src='/images/uploads/imagem/'+list[3].figura[0].imagem,  style="width:100%" height="150")
+            .w3-container.w3-white
+              p
+                a(href='/'+list[3]._id)= list[3].nome
+        if (4< list.length)
+          .w3-third.w3-container
+            img(src='/images/uploads/imagem/'+list[4].figura[0].imagem,  style="width:100%" height="150")
+            a#fifthDesc.w3-container.w3-white
+              p
+                a(href='/'+list[4]._id)= list[4].nome
+        if (5< list.length)
+          .w3-third.w3-container
+            img(src='/images/uploads/imagem/'+list[5].figura[0].imagem,  style="width:100%" height="150")
+            .w3-container.w3-white
+              p
+                a(href='/'+list[5]._id)= list[5].nome
+      // Pagination
+      .w3-center.w3-padding-32
+        .w3-bar
+          a.w3-bar-item.w3-button.w3-hover-black(href='/rutes/filter/'+optionV+'/'+valueV+'/?skip='+previous) &laquo;
+          a.w3-bar-item.w3-black.w3-button(href='/rutes/filter/'+optionV+'/'+valueV) 1
+          a.w3-bar-item.w3-button.w3-hover-black(href='/rutes/filter/'+optionV+'/'+valueV+'/?skip='+6) 2
+          a.w3-bar-item.w3-button.w3-hover-black(href='/rutes/filter/'+optionV+'/'+valueV+'/?skip='+12) 3
+          a.w3-bar-item.w3-button.w3-hover-black(href='/rutes/filter/'+optionV+'/'+valueV+'/?skip='+18) 4
+          a.w3-bar-item.w3-button.w3-hover-black(href='/rutes/filter/'+optionV+'/'+valueV+'/?skip='+next) &raquo;
+      // Footer
+      footer.w3-container.w3-padding-32.w3-dark-grey
+        .w3-row-padding
+          .w3-third
+            p
+              | Powered by 
+              a(href='https://www.w3schools.com/w3css/default.asp', target='_blank') w3.css
+      // End page content

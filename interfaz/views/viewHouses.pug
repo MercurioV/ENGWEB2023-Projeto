@@ -1,0 +1,100 @@
+html
+  head
+    title=rute.nome
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='https://www.w3schools.com/w3css/4/w3.css')
+    link(rel='stylesheet', href='https://fonts.googleapis.com/css?family=Raleway')
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+    script.
+        function fun(arg) {
+            var retVal = confirm("Are you sure you want to continue?");
+               if( retVal == true ) {
+                  window.location.replace(arg);
+                  return true;
+               } else {
+                  return false;
+               }
+        }
+    style.
+      body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif} 
+  body.w3-light-grey.w3-content(style='max-width:1600px')
+    // !PAGE CONTENT!
+    .w3-main
+      header.w3-container.w3-black
+        h1 House 
+      .w3-container
+      table.w3-table-all
+            tr
+                td Numero 
+                td=house.numero
+            tr
+                td Enfiteuta
+                td=house.enfiteuta
+            tr
+                td Foro
+                td=house.foro
+            if (house.desc.length>0)
+                tr
+                    td
+                        each comment in house.desc
+                            .w3-container(style='margin-left:300px')
+                            table.w3-table-all
+                                tr
+                                    th Comment
+                                tr
+                                    td=comment.text
+                                    if(user=="Moderator")
+                                        - var urlUpdateComment = "/rutes/"+rute+"/"+house._id+"/updateComment/"+comment._id;
+                                        - var urlCommentHouse = "/rutes/"+rute+"/"+house._id+"/deleteComment/"+comment._id;
+                                        td
+                                            button.w3-btn.w3-round.w3-black.w3-margin-right(onclick = 'fun("'+ urlUpdateComment +'")' ) Update Comment
+                                        td
+                                            button.w3-btn.w3-round.w3-black.w3-margin-right(onclick = 'fun("'+ urlCommentHouse +'")' ) Delete Comment
+                                if (comment.lugar.length>0)
+                                    tr
+                                        td
+                                            .w3-container(style='margin-left:300px')
+                                            table.w3-table-all
+                                                tr
+                                                    th Lugar
+                                                each place in comment.lugar
+                                                    tr
+                                                        td
+                                                            a(href='/rutes/filter/lugar/'+place)=place
+                                if (comment.data.length>0)
+                                    tr
+                                        td
+                                            .w3-container(style='margin-left:300px')
+                                            table.w3-table-all 
+                                                tr
+                                                    th Data
+                                                each date in comment.data
+                                                    tr
+                                                        td
+                                                            a(href='/rutes/filter/data/'+date)=date
+                                if (comment.entidade.length>0)
+                                    tr
+                                        td
+                                            .w3-container(style='margin-left:300px')
+                                            table.w3-table-all
+                                                tr
+                                                    th Entidade
+                                                each entidad in comment.entidade
+                                                    tr
+                                                        td
+                                                            a(href='/rutes/filter/entidade/'+entidad)=entidad
+            tr
+                td
+                    button.w3-btn.w3-rounded.w3-black.w3-margin-right 
+                        a(style="text-decoration:none" href="/rutes/"+rute+"/"+house._id+"/addComment/") Add Comment +
+                            
+        
+      // Footer
+      footer.w3-container.w3-padding-32.w3-dark-grey
+        .w3-row-padding
+          .w3-third
+            p
+              | Powered by 
+              a(href='https://www.w3schools.com/w3css/default.asp', target='_blank') w3.css
+      // End page content

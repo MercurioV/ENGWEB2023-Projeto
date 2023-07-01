@@ -1,0 +1,139 @@
+html
+  head
+    title=rute.nome
+    meta(charset='UTF-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    link(rel='stylesheet', href='https://www.w3schools.com/w3css/4/w3.css')
+    link(rel='stylesheet', href='https://fonts.googleapis.com/css?family=Raleway')
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
+    script.
+        function fun(arg) {
+            var retVal = confirm("Are you sure you want to continue?");
+               if( retVal == true ) {
+                  window.location.replace(arg);
+                  return true;
+               } else {
+                  return false;
+               }
+        }
+    style.
+      body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif} 
+  body.w3-light-grey.w3-content(style='max-width:1600px')
+    // !PAGE CONTENT!
+    .w3-main
+      // Header
+      header.w3-container.w3-black
+        h1= rute.nome
+      // First Photo Grid
+      .w3-row-padding(style="margin-left:300px")
+        if (0<rute.figura.length)
+          .w3-third.w3-container.w3-margin-bottom
+            img.w3-hover-opacity(src='/images/uploads/imagem/'+rute.figura[0].imagem, style="width:100%")
+            .w3-container.w3-white
+              p
+                b= rute.figura[0].legenda
+        if (1 < rute.figura.length)
+          .w3-third.w3-container.w3-margin-bottom
+            img.w3-hover-opacity(src='/images/uploads/imagem/'+rute.figura[1].imagem, style="width:100%")
+            .w3-container.w3-white
+              p
+                b= rute.figura[1].legenda
+      // Second Photo Grid
+      .w3-row-padding(style="margin-left:300px")
+        if (2<rute.figura.length)
+          .w3-third.w3-container.w3-margin-bottom
+            img.w3-hover-opacity(src='/images/uploads/imagem/'+rute.figura[2].imagem, style="width:100%")
+            .w3-container.w3-white
+              p
+                b= rute.figura[2].legenda
+        if (3 < rute.figura.length)
+          .w3-third.w3-container.w3-margin-bottom
+            img.w3-hover-opacity(src='/images/uploads/imagem/'+rute.figura[3].imagem, style="width:100%")
+            .w3-container.w3-white
+              p
+                b= rute.figura[3].legenda
+      if (4 > rute.figura.length && user=="Moderator")
+        button.w3-btn.w3-round.w3-black.w3-margin-right 
+            a(href="/rutes/"+rute._id+"/addPhoto/") Add Photo
+      header.w3-container.w3-black
+        h1 Comments
+      .w3-container
+      table.w3-table-all
+        each c in rute.comments
+            tr
+                td= c.text
+                if(user=="Moderator")
+                    - var title = "/rutes/"+rute._id+"/deleteComment/"+c._id;
+                    - var titleupdate = "/rutes/"+rute._id+"/updateComment/"+c._id;
+                    td
+                      button.w3-btn.w3-round.w3-black.w3-margin-right(onclick = 'fun("'+ titleupdate +'")' ) Update
+                    td
+                      button.w3-btn.w3-round.w3-black.w3-margin-right(onclick = 'fun("'+ title +'")' ) Delete
+            if (c.lugar.length>0)
+                tr
+                    td
+                        .w3-container(style='margin-left:300px')
+                        table.w3-table-all
+                            tr
+                                th Lugar
+                            each place in c.lugar
+                                tr
+                                    td
+                                        a(href='/rutes/filter/lugar/'+place)=place
+            if (c.data.length>0)
+                tr
+                    td
+                        .w3-container(style='margin-left:300px')
+                        table.w3-table-all 
+                            tr
+                                th Data
+                            each date in c.data
+                                tr
+                                    td
+                                        a(href='/rutes/filter/data/'+date)=date
+            if (c.entidade.length>0)
+                tr
+                    td
+                        .w3-container(style='margin-left:300px')
+                        table.w3-table-all
+                            tr
+                                th Entidade
+                            each entidad in c.entidade
+                                tr
+                                    td
+                                        a(href='/rutes/filter/entidade/'+entidad)=entidad
+        tr
+            td
+                button.w3-btn.w3-circle.w3-black.w3-margin-right
+                    - var newSize = rute.comments.length+1
+                    a(style="text-decoration:none" href="/rutes/"+rute._id+"/addComment/"+newSize) +
+      header.w3-container.w3-black
+        h1 House list
+      .w3-container
+      table.w3-table-all
+        each house in rute.listaCasas
+            tr
+                td
+                    a(href='/rutes/'+rute._id+'/'+house._id)=house.numero
+
+                if(user=="Moderator")
+                    - var titleupdate = "/rutes/"+rute._id+"/updateHouse/"+house._id ;
+                    - var title = "/rutes/"+rute._id+"/deleteHouse/"+house._id;
+                    td
+                      button.w3-btn.w3-round.w3-black.w3-margin-right(onclick = 'fun("'+ titleupdate +'")' ) Update
+                    td
+                      button.w3-btn.w3-round.w3-black.w3-margin-right(onclick = 'fun("'+ title +'")' ) Delete
+        tr
+            td
+                button.w3-btn.w3-circle.w3-black.w3-margin-right 
+                    a(style="text-decoration:none" href="/rutes/"+rute._id+"/addHouse/") +
+                            
+        
+      // Footer
+      footer.w3-container.w3-padding-32.w3-dark-grey
+        .w3-row-padding
+          .w3-third
+            p
+              | Powered by 
+              a(href='https://www.w3schools.com/w3css/default.asp', target='_blank') w3.css
+      // End page content
