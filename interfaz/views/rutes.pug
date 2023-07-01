@@ -26,8 +26,9 @@ html
               button.button Search
             button.w3-button.w3-black 
               a#formButton FILTER
-            button.w3-button.w3-black 
-              a(href="/rutes/addRute") ADD
+            if(user=="Moderator")
+              button.w3-button.w3-black 
+                a(href="/rutes/addRute") ADD
             form.w3-container(method="POST")
               a#form
                 fieldset

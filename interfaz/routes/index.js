@@ -22,7 +22,7 @@ router.get('/rutes', function(req, res, next) {
 
   axios.get(env.apiAccessPoint+"/rutes/?skip="+skipValue)
     .then(response => {
-      res.render('rutes', { list: response.data, d: skipValue, previous: previousVal, next: nextVal});
+      res.render('rutes', { list: response.data, d: skipValue, previous: previousVal, next: nextVal, user:req.user.type});
     })
     .catch(err => {
       res.render('error', {error: err})
